@@ -1,7 +1,25 @@
 ---
-title: "OurMicrobiome"
+title: "Contact Information"
 ---
 
-![Discovery Life Below!](images/Alex.png){width="1000"}
+Prof. Jeffrey Blanchard
 
+Tel: 413-577-2130
 
+Email: jlb\@umass.edu
+
+Office: Morrill III 409
+
+Lab: Morrill III 411
+
+**Mail:**
+
+Prof. Jeffrey Blanchard
+
+Department of Biology
+
+611 North Pleasant St.
+
+University of Massachusetts Amherst
+
+Amherst, MA 01003
