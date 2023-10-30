@@ -17,8 +17,9 @@ Microbiome research is one the most exciting areas of science today. Our laborat
 
 Unexpectedly, we discovered 16 giant viruses in our climate warming study at Harvard Forest, including the world's 2nd largest giant virus genome, 6 ranking in the top 100 and all 16 representing new species, genera or families. We are using environmental genomics to discovery new lineages of viral life and establishing cultures systems so to study them further in the laboratory. The TEM image (colorized) of a Harvard Forest giant virus comes from our collaborators Matthias Fisher and Ulli Mersdorf at the Max Planck Institute in Heidelberg.
 
+### Ecological and evolutionary genetic responses to long-term experimental soil warming
 
-
+The Barre Woods experimental warming site at Harvard Forrest was established in 2002 by Jerry Melillo. Several challenges remain to directly link soil communities to changes in soil CO2 efflux. We are using metatranscriptomic approaches in conjunction with the experimental toggling of temperature in the warming site to understand the response of the microbial communities and building reference genomes from this community to identify adaptions in response to warming.
 
 ### Ecological Metagenome-derived Reference Genomes and Traits (EMERGENT)
 
