@@ -1,0 +1,5 @@
+---
+title: "Blanchard Research Laboratory"
+---
+
+![Discovery Life Below!](images/Alex.png){width="1000"}

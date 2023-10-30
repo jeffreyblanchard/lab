@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "OurMicrobiome"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: OurResearch.qmd
+        text: Our Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: training.qmd
+        text: Training
+      - href: news.qmd
+        text: News
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+editor: source
+

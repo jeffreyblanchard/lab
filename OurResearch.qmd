@@ -1,0 +1,34 @@
+---
+title: "Our Research"
+---
+
+## Forest Microbiomes
+
+Microbiome research is one the most exciting areas of science today. Our laboratory's long-term research goal is to contribute to the understanding of forest microbial communities and their response to climate change. We particularly enjoy discovering new forest microbes in the Pioneer Valley, North Quabbin Woods and at our research sites at the Harvard Forest. Our fundamental revelations into how microbes work together to decompose forest leaf litter and cycle nutrients has led to applied applications in biofuels, probiotics and biotechnology. Our research is currently supported by the [National Science Foundation](http://www.nsf.gov/), [Department of Energy](http://energy.gov/), and [New England BioLabs](https://www.neb.com/research).
+
+## Current Projects
+
+### Revealing the Hidden Diversity of Terrestrial Giant Viruses
+
+<div>
+<div style="float: left; position: relative; top: 0px; padding: 20px;">
+![](images/giant_virus.png){width="200"}
+</div>
+
+Unexpectedly, we discovered 16 giant viruses in our climate warming study at Harvard Forest, including the world's 2nd largest giant virus genome, 6 ranking in the top 100 and all 16 representing new species, genera or families. We are using environmental genomics to discovery new lineages of viral life and establishing cultures systems so to study them further in the laboratory. The TEM image (colorized) of a Harvard Forest giant virus comes from our collaborators Matthias Fisher and Ulli Mersdorf at the Max Planck Institute in Heidelberg.
+
+
+
+
+### Ecological Metagenome-derived Reference Genomes and Traits (EMERGENT)
+
+<div>
+<div style="float: right; position: relative; top: 0px; padding: 10px;">
+![](images/soil_emergent.jpg){width="250"}
+</div>
+
+The Ecological Metagenome-derived Reference Genomes and Traits (EMERGENT) synthesis project connects genomic information about the soil microbiome with the broader ecological context. This National Science Foundation Long Term Ecological Research synthesis working group will advance efforts to harmonize molecular information for microbial taxa and their functional traits. For more information see the [EMERGENT](https://lter.github.io/lterwg-emergent-website/) GitHub project site.
+
+### Integrating Microbiome Data from National Ecological Observatory Network Eco-climatic Regions
+
+In this project we are utilizing soils from the NEON Biorepository and EMSL/JGI capabilities to conduct continental scale ecosystem research along climate/vegetation gradients. Through this effort we hope to close the gap between genomic studies and large ecosystem synthesis efforts that have been valuable in understanding how carbon cycling and soil respiration respond to warming.
