@@ -1,5 +1,242 @@
 ---
-title: "OurMicrobiome"
+title: "News"
 ---
 
-![Discovery Life Below!](images/Alex.png){width="1000"}
+<a href="https://scholar.google.com/citations?user=qSulmx8AAAAJ&hl=en" target="_blank">Google Scholar</a>
+
+## 2023
+
+-   Oct 2023 Our Harvard Forest metagenomes contributed to the discovery of new protein families <a href="https://www-nature-com.silk.library.umass.edu/articles/s41586-023-06583-7" target=" _blank">Unraveling the functional dark matter through global metagenomics</a>
+-   Aug 2023 Matt
+-   July 2023 Sarah
+-   June 2023 New manuscript in BioRxiv <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546935v1" target="_blank">Amazing structural diversity of giant virus-like particles in forest soil</a>
+-   June 2023 Maria
+-   June 2023 Robert
+-   June 2023 Nistha
+-   May 2023 Z
+-   Jan 2023 These small viroid RNAs are so fun to think about. They are common in our soil metatranscriptome data sets - <a href="https://www.cell.com/cell/fulltext/S0092-8674(22)01582-3" target="_blank">Mining metatranscriptomes reveals a vast world of viroid-like circular RNAs</a>
+
+## 2022
+
+-   Dec 2022
+-   Oct 2022 We are currently working on dsDNA phages in metagenomes. I never thought there would be so many RNA phage in our soil metatranscriptomes - <a href="https://www.cell.com/cell/fulltext/S0092-8674(22)01118-7" target="_blank">Expansion of the global RNA virome reveals diverse clades of bacteriophages</a>
+-   Sept 2022 Danaiijah
+-   Aug 2022 Brooke
+-   Aug 2022 Chris
+
+## 2021
+
+-   Sept 2021 Danaiijah
+-   May 2021 Andrea
+-   Mar 2021 Listen to this webinar to learn how we have advanced our research with access to resources and capabilities at the JGI, EMSL and NEON.
+-   Apr 2021 This is a great reference catalog of MAGs including some from soil - <a href="https://www.nature.com/articles/s41587-020-0718-6" target="_blank">A genomic catalog of Earth's microbiomes </a>
+
+## 2020
+
+-   Nov 2020 New collaborative research article with Marco Keiluweit's Lab Long-Term Warming Decreases Redox Capacity of Soil Organic Matter
+-   Nov 2020 Blanchard Lab to investigate soil microbe communities' response to climate change and role in carbon emissions, supported by a national research team
+-   Oct 2020 UMass Amherst's Blanchard Lab Leads National Soil Microbiome Investigation
+-   Aug 2020 Our proposal with members of the EMERGENT and SoDaH NSF LTER working groups have been funded Integrative analysis of multi-omics data across NEON eco-climatic regions
+-   Aug 2020 Fun for our lab to work with Jason Andras and Kate Ballantine at Mt. Holyoke on Rewilding the small stuff: The effect of ecological restoration on prokaryotic communities of peatland soils
+-   July 2020 An award from the NSF Extreme Science and Engineering Discovery Environment (XSEDE) program will support advanced computing for our Evolutionary Genomics & Bioinformatics class
+-   May 2020 Kudos to Lionel on being named an Outstanding Undergraduate Researcher
+-   May 2020 We will miss our graduating seniors Arianna and Lionel who are off to (at least for now) virtual positions at J&P Morgan and the University of Ghana
+-   May 2020 Nate starts (at least via computer) on an Environmental Database Initiative summer fellowship with Stevan Earl at Arizona State University
+-   Apr 2020 Congratulations to Alex on PhD fellowships to continue his giant virus research at UTenn with Steve Wilheim
+-   Mar 2020 Lauren's manuscript on Microbial Diversity in Forest Soil is out in mSystems
+-   Feb 2020 We have been funded by the NSF LTER program for a synthesis project Ecological Metagenomes
+
+## 2019
+
+-   Sept 2019 Arianna is selected to attend the 2019 Grace Hopper Celebration of Women in Computing in Orlando, FL
+-   Sept 2019 Lionel has been selected as a 2019 Junior Life Sciences Fellow
+-   Aug 2019 Congratulations to William on an excellent PhD defense and on his new job as a Bioinformatics Analyst at the Harvard Medical School!
+-   June 2019 Nate begins his summer internship in the Genomics Resource Laboratory
+-   June 2019 Lionel is off for a summer internship at the Noguchi Memorial Institute for Medical Research in Ghana
+-   June 2019 Alex begins his 6 month research fellowship at New England BioLabs
+-   June 2019 Northern Woodlands Giant Viruses of the Forest
+
+## 2018
+
+-   Nov 2018 Connecting Point WGBY TV Giant Virus found in Petersham Forest
+-   Nov 2018 NEPR piece on Giant Virus Discovery In Western Mass. Forest May Further Study Of Biodiversity
+-   Nov 2018 Boston Globe article on the discovery of giant viruses at Harvard Forest
+-   Nov 2018 Our manuscript on the discovery of giant viruses at Harvard Forest is out - https://www.nature.com/articles/s41467-018-07335-2
+-   July 2018 Both William and Lauren were awarded travel grants for ISME 2018 in Leipzig, Germany
+
+## 2017
+
+-   Dec 2017 Congratulations to Lauren on receiving a \$3,000 Dissertation Fieldwork Grant!
+-   July 2017 Jeff will be presenting the lab's research at the Ecological and Evolutionary Genomics Gordon Research Conference
+-   May 2017 Lauren's talk at the 2017 DOE JGI Genomics of Energy & Environment Meeting
+-   April 2017 Nice write up on William's SCGSR awardGraduate Student to Work with Federal Researchers in Pacific Northwest
+-   Apr 2017 William is heading to Scotland courtesy of a travel award from Terragenome for the 14th Symposium on Bacterial Genetics and Ecology
+-   Mar 2017 Kelly's Kineothrix alysoides paper has been published.
+-   Mar 2017 Alex was awarded the Peter K Hepler Research Scholarship to support research and travel to the University of Vienna in Austria
+-   Mar 2017 Congratulations to William on receiving a DOE graduate research fellowship (SCGSR) for his dissertation research which includes working on site at the Pacific Northwest National Laboratories
+-   Mar 2017 William is an invited speaker at the Harvard Forest Ecology Symposium
+-   Feb 2017 From Microbes to Models:Understanding the long-term impact of soil warming an article on our FICUS project
+
+## 2016
+
+-   Nov 2016 Lauren was awarded a Travel Grant for Young Scientists from Terragenome to present our metatranscriptome research at the 3rd Thunen Symposium on Soil Metagenomics in Braunschweig, Germany
+-   Oct 2016 Nick is quoted on the front page of the Gazette Cutting-edge science: UMass, state formally launch \$150M life sciences institute at flagship
+-   Oct 2016 Commentary and photos from the lab in The Promise of Probiotics
+-   Sept 2016 Congratulations to William on receiving a travel scholarship to SACNAS in Long Beach, CA
+-   Aug 2016 We are grateful to the DOE's Joint Genome Institute (JGI) and the Environmental Molecular Sciences Laboratory (EMSL) for accepting our project proposal. We are excited to work with them!
+-   Aug 2016 Kudos to Lauren for her DOE graduate fellowship award to work with our collaborators at the Joint Genome Institute and the University of Vienna!
+-   Aug 2016 Genome sequencing of our mutation accumulation lines contributed to understanding Tempo and mode of genome evolution in a 50,000-generation experiment published in Nature
+-   Aug 2016 Congratulations to Nick on being awarded a Life Sciences Junior Fellowship
+-   July 2016 Check out summer REU Rebecca's blog on href="http://harvardforest.fas.harvard.edu/blog/rebeca-bonilla" target="\_blank"\>Knowing the Dirt on Soil Microbial Respiration
+-   July 2016 Congratulations to William on receiving a travel scholarship to SACNAS in Long Beach, CA
+-   July 2016 Kelly successfully defended her PhD dissertation on "Expansion of and reclassification within the Family Lachnospiraceae". A joy to see it all come together so nicely.
+-   May 2016 Welcome this year's summer REU students. Belle Henry is part of the Collaborative Undergraduate Research in Energy Program funded by the National Science Foundation". Rebeca Bonilla is part of the Harvard Forest Summer Program in Ecology funded by the National Science Foundation".
+-   May 2016 Bon voyage to a wonderful group of seniors that have been with us for many years - Ava, Madhura, Fauzia, Kelly, Jaice and Shane. Best of wishes in your PhD research (Johns Hopkins, UConn Health), at medical school (UVM) and other career paths.
+-   May 2016 Ava received the Henry Little Award in recognition of earned the highest cumulative grade point average for a BMB major at the end of the junior year.
+-   Feb 2016 Check out Ava's YouTube video on her microcompartment research
+
+## 2015
+
+-   Sept 2015 Congratulations to Madhura, Fauzia and Ava on their successful Honors Research Grants to fund their senior thesis research.
+-   July 2015 Amy has started her new position as an Assistant Professor at the University of Delaware where she will be leading research on the equine microbiome in health and disease. Her equine research started here at UMass with 3 sweet Morgans at the Hadley Farm.
+-   June 2015 A lot of work went into this paper Genome and Transcriptome of Clostridium phytofermentans, Catalyst for the Direct Conversion of Plant Feedstocks to Fuels and it has been finally published. Thanks for funding by the Department of Energy CSP and SBIR programs.
+-   May 2015 Welcome to 2 new summer REU students. Cora Kerber is part of the Collaborative Undergraduate Research in Energy Program funded by the National Science Foundation". Josia DeChiara is part of the Harvard Forest Summer Program in Ecology funded by the National Science Foundation".
+-   May 2015 Eric Gann has just finished 4 great years in the lab with some excellent results on choline metabolism. We will miss him and wish him well in his graduate research at the University of Tennessee!
+-   Mar 2015 Lauren has been elected to represent the graduate students in Long Term Ecological Research Program funded by the National Science Foundation. She will be participating in site visits by NSF panel members and representing our site at the National LTER meeting in Colorado this August.
+-   Mar 2015 Ava has been awarded a fellowship from the UMass Alumni Association fellowship from the UMass Alumni Association
+-   Feb 2015 The first paper is a series from the warming plots Long-term forest soil warming alters microbial communities in temperate forest soils funded by the Department of Energy CSP program has been published.
+
+## 2014
+
+-   Oct 2014 Congratulations to Josia on a Ray and Lorna Coppinger Endowment Grant to support her research at the Harvard Forest warming plots
+-   Oct 2014 Just in time for Halloween - Recycling the Dead, an article in Science News for Students that includes our research
+-   Sept 2014 Our UMass Industry-Academic Grant with New England Biolabs has been funded. This award will support provide significant research and mentoring experiences in the private sector for Kelly, William and Lauren
+-   August 2014 Ava, Eric, Fauzia, Madhura and Shane received Commonwealth College fellowships or grants. What an impressive group!
+-   June 2014 The Center for Microbiome Research, a collaboration with the UMass Medical Center and UMass Dartmouth was funded through an award from the President's Science and Technology Development Fund.
+-   May 2014 The complete genome sequence of Clostridium indolis, a bacterium isolated from soil and human clinical specimens associated with infections of the intestinal tract, has been published
+-   Apr 2014 Congratulations to Monique on her Master's defense!
+-   Apr 2014 Amy and Jeff are featured in this NSF I-Corps video. The NCIIA site also features the video under What is I-Corps?
+-   Apr 2014 Amy's equine microbiome project will be funded through a CVIP development award - Probiotics for Equine Digestive Health
+-   Mar 2014 Gigi's paper is out Strong genome-wide selection early in the evolution of Prochlorococcus resulted in a reduced genome through the loss of a large number of small effect genes
+-   Feb 2014 Supratim's recent paper Population Level Analysis of Evolved Mutations Underlying Improvements in Plant Hemicellulose and Cellulose Fermentation by Clostridium phytofermentans was written up for the DOE JGI Highlights
+
+## 2013
+
+-   Dec 2013 Our collaborative proposal with Jerry Melillo and Kristen DeAngelis on "Changes in Soil Carbon Dynamics in Response to Long-Term Soil Warming -- Integration Across Scales from Cells to Ecosystems" has been funded by the Department of Energy
+-   Oct 2013 Congratulations to Amy on her PhD defense!
+-   Sept 2013 Characterizing microbial communities in soil to predict climate change
+-   Aug 2013 Congratulations to James and Farah for defending their Master's research!
+-   Aug 2013 Congratulations to Supratim on his PhD defense! We wish him well at the Joint Genome Institute.
+-   Aug 2013 Gut bacteria probed for clues about laminitis and colic
+-   July 2013 Our proposal on "Probiotics for the Prevention of Laminitis and Acidosis" funded by the National Science Foundation Innovation Corp program
+-   May 2013 Graduation Day for Megan and Josie!
+
+## 2012
+
+-   Oct 2012 DOE to aid Harvard Forest study of soil microbial changes over time an article in the LTER newsletter about our warming plot research.
+-   Oct 2012 New Grant to Aid Research on Soil Microbe DNA" Harvard Forest Press Release on our warming plot sequencing project
+-   Oct 2012 Beyond Summer Research - a dispatch from the NSF REU conference in DC by Sonia Filipczak
+-   Aug 2012 Researchers Help Horses Stay a Hoof Ahead of Disease an article in the Morris Animal Foundation newsletter on Amy's research
+-   June 2012 The Harvard Forest Long Term Ecological Research proposal New Science, Synthesis, Scholarship, and Strategic Vision for Society has been funded by the NSF
+-   June 2012 New England Public Radio - UMass Scientists on the Prowl for "Trash to Fuel Bugs"
+-   June 2012 Springfield Republican Business Monday - The University of Massachusetts Amherst is working on sponsored research with a goal of using microbes to digest trash to fuel"
+-   June 2012 Gazette News - ReCommunity Recycling, UMass team up on trash-to-fuel project"
+-   May 2012 Supratim accepts a Postdoctoral fellowship from DOE's Lawrence Berkeley National Laboratory
+-   May 2012 Tara to speak at the College of Natural Sciences graduation ceremony
+-   Apr 2012 The genomes of Amy, Kelly and Tara's switchgrass microcosm isolates will be sequenced through an award from the Department of Energy Community Sequencing Program
+-   Apr 2012 Tara receives the 21st Century Leadership award
+-   Apr 2012 Maddy, Tom, Sue and Jeff are awarded a research contract with ReCommunity
+-   Feb 2012 Congratulations to James and Kayla on their birth of their son, Spencer!
+
+## 2011
+
+-   Nov 2011 Amy and Jeff, in collaboration with with Sam Black and Carlos Gradil from the Vet & Animals Sciences Department, have been awarded a grant from the Morris Animal Foundation to identify bacteria that may alleviate equine colic and laminitis
+-   Oct 2011 Jeff is part of group of researchers from UMass, UC Berkeley, University of Washington and Metabolix that is awarded \$1.5M to improve biofuel crop production
+-   Aug 2011 Tara is named 2011-2012 Life Science Junior Fellow
+-   Aug 2011 Megan Strough joins the lab as a Masters student
+-   July 2011 Elsa, Sue, John and Jeff are coauthors on a patent for improving biofuel production in Cphy
+-   June 2011 Tara is inducted into the Phi Beta Kappa Society
+-   May 2011 Stephen graduates and is off to a PhD program at the University of Pittsburg
+-   May 2011 Caitlin graduates and is headed to UMass Medical School
+-   May 2011 Stephen is named an Examplary Biology Student for his accomplishments the past 4 years
+-   May 2011 Lucy finishes her rotation project on new approaches to environmental sequence classification
+-   Apr 2011 Sue and Jeff appear on the local NBC Mass Appeal TV show
+-   Mar 2011 Tara has been chosen as a Goldwater Scholar
+-   Mar 2011 Tara appears on WGBY TV to promote UMass
+-   Mar 2011 Amy receives a fellowship to go to Vienna for the International FISH course
+-   Feb 2011 Gigi leaves us for her new position at New England BioLabs
+
+## 2010
+
+-   Dec 2010 Gigi gives her dissertation presentation
+-   Nov 2010 The genomes of Supratim and Stephen's experimental evolution lines will be sequenced as part of an award from the Department of Energy
+-   Oct 2010 Amy and Jeff led a STEM workshop for K12 teachers
+-   Sep 2010 Stephen is selection as a Junior Fellow
+-   Sep 2010 Kelly joins the lab with NEAGAP and ICE Fellowships
+-   Aug 2010 Monique is awarded a 2-year Louis Stokes Fellowship
+-   Aug 2010 Danielle receives her Master's degree from the Microbiology graduate program
+-   May 2010 James joins the National Guard and will spend his summer at Fort Benning in Georgia
+-   May 2010 Maria receives her Master's degree from the Molecular and Cellular Biology graduate program
+-   May 2010 Caitlin is selected for the HHMI Summer Internship program
+-   Apr 2010 Jeff receives a Charles Bullard Fellowship for "Genome-based approaches for understanding relationships between microbial community members" and will work at Harvard Forest during his sabbatical 2010-2011
+-   Feb 2010 Amy receives a prestigious 3-year NSF predoctoral fellowship for work on "Microcosmic evolution: microbial community interactions enabling plant degradation"
+
+## 2009
+
+-   Dec 2009 Supratim and a team of three other UMass students presented a business venture concept, "Mosaic," in the University of Massachusetts Innovation Challenge Mosaic is an image analysis web application that can be used by life science researchers His team won a \$2,000 prize in this competition
+-   Sep 2009 Monique starts in the lab as an NIH Prep Intern
+-   June 2009 Amy goes to the Marine Biological Laboratories for the Microbial Diversity course
+-   June 2009 Jeff is granted tenure!
+-   June 2009 James is awarded a two-year fellowship from the Institute for Cellular Engineering's NSF training program
+-   June 2009 Erin is selected for an Institute for Cellular Engineering summer internship
+-   May 2009 Cphy, a microbe of many talents, is at the Smithsonian in an exhibit on Soil Microbes
+-   May 2009 Stephen is awarded a HHMI Quantitative Systems Biology summer fellowship
+-   May 2009 Danielle receives her Bachelor's degree in Microbiology and decides to stay to work with us for her Master's degree
+-   Apr 2009 Supratim selected to receive an Isenberg Scholar Award for the 2009-2010 academic year to encourage students whose studies demonstrate commitment to the integration of science with Management
+-   Feb 2009 A two-year sponsored research agreement begins with Qteros
+
+## 2008
+
+-   Oct 2008 Elsa joins Qteros as a Research Scientist
+-   Oct 2008 Danielle receive a Commonwealth College grant
+-   Sep 2008 Stephen receives a HHMI Quantitative Systems Biology fellowship for the 2008-2009 academic year
+-   Aug 2008 Jinghua's first paper is accepted for publication in Molecular Biology and Evolution
+-   Aug 2008 Igor leaves for the Bioinformatics PhD program at NCSU
+-   July 2008 Jeff, Sue Leschine and Mike Henson are part of a large DOE SBIR phase II grant awarded to SunEthanol
+-   July 2008 Jeff, David Damery and Paul Cantanzaro receive a 3-year grant from the USDA-CREES for "Sustainable use of woody biomass as a renewable alternative to gasoline"
+-   July 2008 Gigi gets a travel award to the Computational Phyloinformatics course at the National Evolutionary Synthesis Center
+-   June 2008 Jeff, Mary Hagen and Joe Jerry receive a grant from the Center for Apoptosis Research "From Genomics to Human Health: A Novel Framework for Identifying Condition-Dependent Models of Apoptosis"
+-   May 2008 Ana receives her Master's degree
+-   May 2008 Jeff is part of a group led by SunEthanol that recieved a DOE grant to "optimize biomass pretreatment procedures using genomics"
+
+## 2007
+
+-   Oct 2007 Jeff and Elsa recieve a grant from SunEthanol for the identification of biofuel related pathways using microarrays
+-   Sept 2007 Maria receives a Commonwealth College Research Grant
+-   June 2007 Jeff is part of a group led by George Huber that is awarded a NSF grant to equip a Biofuels Research Laboratory
+-   June 2007 Jeff is part of a group led by SunEthanol that is awarded a DOE Small Business grant
+-   June 2007 Igor is awarded an HHMI Summer Research Fellowship
+-   May 2007 After 3 years in our group, Devin graduates and heads up the river for PhD studies with Lee Lynd at Dartmouth
+-   Apr 2007 Elsa receives Postdoctoral funding for her biofuels research
+-   Feb 2007 Jeff receives Tom Lessie Award for Distinguished Lectureship in Graduate Teaching
+
+## 2006
+
+-   Aug 2006 Winnie gets her Master's Degree and leaves to start a PhD program at the University of Michigan
+-   Aug 2006 Jeff is part of a group led by Elizabeth Conner in Biology that is awarded a Howard Hughs Medical Institute grant for introducing quantitative systems biology thinking into the undergraduate curriculum
+-   July 2006 Igor receives a Commonwealth College Research Grant
+-   June 2006 Devin is awarded Life Science Junior Fellowship
+-   May 2006 Devin gets hired as a summer research intern at Mascoma Corp, a biofuels company in NH
+-   May 2006 Gigi is named Outstanding Biology TA
+-   Apr 2006 Jinghua has a baby!
+
+## 2005
+
+-   Jan 2006 Devin co-founds the Society for Undergraduate Microbiology Majors (SUMM)
+-   May 2005 Devin is off to a summer internship at the Desert Research Institute
+-   May 2005 Andrew, Ana and Winnie are college graduates
+
+## 2004
+
+-   July 2004 Ana and Winnie receive Commonwealth College Research Grants
+-   June 2004 Winnie is awarded a Life Science Junior Fellowship
