@@ -4,30 +4,37 @@ title: "News"
 
 <a href="https://scholar.google.com/citations?user=qSulmx8AAAAJ&hl=en" target="_blank">Google Scholar</a>
 
+## 2024 
+
+- Mar 2024 Our lab had 5 posters at this year's Pioneer Valley Microbiology Symposium. Great work Isabel, Marie, John, Vartika, Nish, Seojin, Jared, Arav and Manya!
+
 ## 2023
 
+-   Dec 2023 Congratulations to Robert for graduating and a new job at Bristol Myers Squibb
 -   Oct 2023 Our Harvard Forest metagenomes contributed to the discovery of new protein families <a href="https://www-nature-com.silk.library.umass.edu/articles/s41586-023-06583-7" target=" _blank">Unraveling the functional dark matter through global metagenomics</a>
--   Aug 2023 Matt
--   July 2023 Sarah
+-   Aug 2023 Matt finished his Master's thesis "The Discovery of a Novel Bacteria from a Large Co-assembly of Metagenomes" and has a new position at the Stony Brook Cancer Research Center.
+-   July 2023 Sarah finished her Master's thesis "Climate Change, Giant Viruses and Their Putative Hosts" and a new position at American River Nutrition.
 -   June 2023 New manuscript in BioRxiv <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546935v1" target="_blank">Amazing structural diversity of giant virus-like particles in forest soil</a>
--   June 2023 Maria
--   June 2023 Robert
--   June 2023 Nistha
--   May 2023 Z
+-   June 2023 Maria was selected as a summer REU to go to Alaska and do research at the <a href="https://www.lter.uaf.edu/" target="_blank">Bonanza Creek (BNZ) Long-Term Ecological Research site</a>
+-   June 2023 Robert was select to be part of the summer internship program at <a href="https://science.osti.gov/wdts/suli" target="_blank">Pacific Northwest National Laboratory</a>
+-   June 2023 Nish will spend the summer here working on virophages with a <a href="https://www.umass.edu/natural-sciences/research/undergraduate-research/william-lee-science-impact-program" target="_blank">LEE-SIP</a> award
+-   May 2023 Congratulations to Gabe on graduating and finishing his honors thesis on "Characterization of Novel Harvard Forest Soil Archaea Via Metagenomic Analysis" and a new position starting late summer at the at Joslin Diabetes Center.
 -   Jan 2023 These small viroid RNAs are so fun to think about. They are common in our soil metatranscriptome data sets - <a href="https://www.cell.com/cell/fulltext/S0092-8674(22)01582-3" target="_blank">Mining metatranscriptomes reveals a vast world of viroid-like circular RNAs</a>
 
 ## 2022
 
--   Dec 2022
+-   Dec 2022 Congratulations to Kate on finishing her honors thesis "Discovery of Jumbo Phages at Harvard Forest and Host Identification", graduating and a new job at LFB Pharmaceuticals
 -   Oct 2022 We are currently working on dsDNA phages in metagenomes. I never thought there would be so many RNA phage in our soil metatranscriptomes - <a href="https://www.cell.com/cell/fulltext/S0092-8674(22)01118-7" target="_blank">Expansion of the global RNA virome reveals diverse clades of bacteriophages</a>
--   Sept 2022 Danaiijah
--   Aug 2022 Brooke
--   Aug 2022 Chris
+-   Aug 2022 Brooke finished her Master's thesis "A metatranscriptomic analysis of the long-term effects of warming on the Harvard Forest soil microbiome" and started a position in the Quantitative Proteomics core at the Whitehead Institute
+-   Aug 2022 Chris finished his Master's thesis "Changes in Gene Expression From Long-Term Warming Revealed
+Using Metatranscriptome Mapping to FAC-Sorted Bacteria" and now has a position at Moderna.
+-   May 2022 Congratulions to Kate on getting a summer internship at the UMass Core Facility Genomics Resource Laboratory
+-   May 2022 Congratulations to Andrea on finishing her Master's program and a fellowship at the Broad Institute
 
 ## 2021
 
--   Sept 2021 Danaiijah
--   May 2021 Andrea
+-   Sept 2021 Danaiijah was awarded a NSF Post-Baccalaureate Research fellowship to work on a collaboration with Sydne Record at Bryn Mawr and our lab. Glad that we get to keep working with her!
+-   May 2021 We will miss our graduating seniors, Hanna, Jessica, Danaiijah, Lorene, Bryanna, Manya, Ben and Eliza Jane, but Andrea, Caroline, Brooke and Chris will be back for a 5th Year Master's. Largest graduating group of seniors ever!
 -   Mar 2021 Listen to this webinar to learn how we have advanced our research with access to resources and capabilities at the JGI, EMSL and NEON.
 -   Apr 2021 This is a great reference catalog of MAGs including some from soil - <a href="https://www.nature.com/articles/s41587-020-0718-6" target="_blank">A genomic catalog of Earth's microbiomes </a>
 

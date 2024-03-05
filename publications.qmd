@@ -42,7 +42,9 @@ title: "Publications"
 
 -   Petit E, Coppi MV, Hayes JC, Tolonen A, Warnick T, Latouf WG, Amisano D, Biddle A, Mukherjee S, Ivanova, N, Lykidis A, Land M, Hauser L, Kripides N, Henrissat B, Lau J, Schnell D, Church G, Leschine SB, Blanchard JL (2015) Genome and transcriptome of Clostridium phytofermentans, catalyst for the direct conversion of plant feedstocks to fuels. PLoS ONE. 10(6): e0118285. doi: 10.1371/journal.pone.0118285
 
--   DeAngelis KM, Pold G, Topcuoglu BD, van Diepen LTA, Varney R, Blanchard JL, Melillo J, Frey SD (2015) Long-term forest soil warming alters microbial communities in temperate forest soils. Frontiers in Microbiology. 6:104. doi: 10.3389/fmicb.2015.00104 vBiddle AS, Leschine S, Huntemann M, Han J, Chen A, Kyrpides N, Markowitz V, Palaniappan K, Ivanova N, Mikhailova N, Ovchinnikova G, Schaumberg A, Pati A, Stamatis D, Reddy T, Lobos E, Goodwin L, Nordberg HP, Cantor MN, Hua SX, Woyke T, Blanchard JL (2014). The complete genome sequence of Clostridium indolis. Standards in Genome Sciences. Mar 18;9(3):1089-104
+-   DeAngelis KM, Pold G, Topcuoglu BD, van Diepen LTA, Varney R, Blanchard JL, Melillo J, Frey SD (2015) Long-term forest soil warming alters microbial communities in temperate forest soils. Frontiers in Microbiology. 6:104. doi: 10.3389/fmicb.2015.00104 
+
+-   Biddle AS, Leschine S, Huntemann M, Han J, Chen A, Kyrpides N, Markowitz V, Palaniappan K, Ivanova N, Mikhailova N, Ovchinnikova G, Schaumberg A, Pati A, Stamatis D, Reddy T, Lobos E, Goodwin L, Nordberg HP, Cantor MN, Hua SX, Woyke T, Blanchard JL (2014). The complete genome sequence of Clostridium indolis. Standards in Genome Sciences. Mar 18;9(3):1089-104
 
 -   Sun Z, Blanchard JL (2014) Strong genome-wide selection early in the evolution of Prochlorococcus resulted in a reduced genome through the loss of a large number of small effect genes. PLoS ONE. Mar 3;9(3):e88837. doi: 10.1371/journal.pone.0088837
 
