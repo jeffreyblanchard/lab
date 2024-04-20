@@ -6,11 +6,14 @@ title: "News"
 
 ## 2024 
 
-- Mar 2024 Our lab had 5 posters at this year's Pioneer Valley Microbiology Symposium. Great work Isabel, Marie, John, Vartika, Nish, Seojin, Jared, Arav and Manya!
+-   Apr 2024 Congratulations to former and current lab members on being accepted into PhD programs at Syracuse (Manya), Boston University (Ben) and Harvard (Eliza Jane)!
+-   Apr 2024 The Massachusetts Undergraduate Research Conference is back in person by the thousands. <a href="https://jeffreyblanchard.github.io/lab/people.html" target=" _blank">Nice posters from Isabel, Marie, John, Vartika, Nish, Seojin and Jared!</a>
+-   Mar 2024 Our last LTER synthesis group workshop at the National Center for Ecological Analysis and Synthesis in Santa Barbara. It was amazing to work with this group of scientists on the <a href="<a https://lter.github.io/lterwg-emergent-website/" target=" _blank">EMERGENT project</a>
+-   Mar 2024 Our lab had 5 posters at this year's Pioneer Valley Microbiology Symposium. <a href="https://jeffreyblanchard.github.io/lab/people.html" target=" _blank">Great work Isabel, Marie, John, Vartika, Nish, Seojin, Jared, Arav and Manya!</a>
 
 ## 2023
 
--   Dec 2023 Congratulations to Robert for graduating and a new job at Bristol Myers Squibb
+-   Dec 2023 Congratulations to Robert on graduating and a new job at Bristol Myers Squibb
 -   Oct 2023 Our Harvard Forest metagenomes contributed to the discovery of new protein families <a href="https://www-nature-com.silk.library.umass.edu/articles/s41586-023-06583-7" target=" _blank">Unraveling the functional dark matter through global metagenomics</a>
 -   Aug 2023 Matt finished his Master's thesis "The Discovery of a Novel Bacteria from a Large Co-assembly of Metagenomes" and has a new position at the Stony Brook Cancer Research Center.
 -   July 2023 Sarah finished her Master's thesis "Climate Change, Giant Viruses and Their Putative Hosts" and a new position at American River Nutrition.
