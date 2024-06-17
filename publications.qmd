@@ -6,7 +6,7 @@ title: "Publications"
 
 ## University of Massachusetts Amherst
 
--   Fisher M, Mersdorf U, Blanchard JL (2023) Amazing structural diversity of giant virus-like particles in forest soil. BioRxiv – https://www.biorxiv.org/content/10.1101/2023.06.30.546935v1 
+-   Fisher M, Mersdorf U, Blanchard JL (2023) Amazing structural diversity of giant virus-like particles in forest soil. <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546935v1 target="_blank">BioRxiv</a>
 
 -   Pavlopoulos GA, Baltoumas FA, Liu S, Selvitopi O, Camargo AP, Nayfach S, Azad A, Roux S, Call L, Ivanova NN, Chen IM, Paez-Espino D, Karatzas E; Novel Metagenome Protein Families Consortium (including Blanchard JL); Iliopoulos I, Konstantinidis K, Tiedje JM, Pett-Ridge J, Baker D, Visel A, Ouzounis CA, Ovchinnikov S, Buluç A, Kyrpides NC (2023). Unraveling the functional dark matter through global metagenomics. Nature. 2023 Oct;622(7983):594-602. doi: 10.1038/s41586-023-06583-7.
 
