@@ -2,8 +2,6 @@
 title: "News"
 ---
 
-<a href="https://scholar.google.com/citations?user=qSulmx8AAAAJ&hl=en" target="_blank">Google Scholar</a>
-
 ## 2024 
 
 -   July 2024 The Biology Undergraduate Apprenticeship (BUA) program is being expanded to serve all STEM disciplines through a Howard Hughes Medical Institute Inclusive Excellence Award to the University of Massachusetts Amherst. To reflect the new broader mission the BUA program has be renamed <a href="https://bua.bio.umass.edu/" target=" _blank">PROPEL (Promoting Research Opportunities for Equity in Learning)</a>
