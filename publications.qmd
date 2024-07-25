@@ -6,7 +6,7 @@ title: "Publications"
 
 ## University of Massachusetts Amherst
 
--   GrahamEB, Camargo AP, Wu R, Neches RY, Nolan M, Paez-Espino D, Kyrpides NC, Jansson JK, McDermott JE, Hofmockel KS; Soil Virosphere Consortium (including Blanchard JL) (2024) Nat Microbiol. 2024 Jul;9(7):1873-1883. doi: 10.1038/s41564-024-01686-x. 
+-   GrahamEB, Camargo AP, Wu R, Neches RY, Nolan M, Paez-Espino D, Kyrpides NC, Jansson JK, McDermott JE, Hofmockel KS; Soil Virosphere Consortium (including Blanchard JL) (2024) A global atlas of soil viruses reveals unexplored biodiversity and potential biogeochemical impacts. Nat Microbiol. 2024 Jul;9(7):1873-1883. doi: 10.1038/s41564-024-01686-x. 
 
 -   Fisher M, Mersdorf U, Blanchard JL (2023) Amazing structural diversity of giant virus-like particles in forest soil. <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546935v1" target="_blank">BioRxiv</a>
 
