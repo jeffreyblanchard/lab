@@ -6,6 +6,8 @@ title: "Publications"
 
 ## University of Massachusetts Amherst
 
+-   Anthonty WE, Allison SD, Broderick CM, Rodriguez LC, Clum A, Cross H, Eloe-Fadrosh E, Evans S, Fairbanks D, Gallery R, Gontijo JB, Jones J, McDermott J, Pett-Ridge J, Record S, Rodrigues JLM, odriguez-Reillo W, Shek KL, Takacs-Vesbach T, Blanchard JL (2024) From soil to sequence: filling the critical gap in genome-resolved metagenomics is essential to the future of soil microbial ecology. Environmental Microbiome 19, 56 (2024). doi.org/10.1186/s40793-024-00599-w 
+
 -   Graham EB, Camargo AP, Wu R, Neches RY, Nolan M, Paez-Espino D, Kyrpides NC, Jansson JK, McDermott JE, Hofmockel KS; Soil Virosphere Consortium (including Blanchard JL) (2024) A global atlas of soil viruses reveals unexplored biodiversity and potential biogeochemical impacts. Nat Microbiol. 2024 Jul;9(7):1873-1883. doi: 10.1038/s41564-024-01686-x. 
 
 -   Fisher M, Mersdorf U, Blanchard JL (2023) Amazing structural diversity of giant virus-like particles in forest soil. <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546935v1" target="_blank">BioRxiv</a>
