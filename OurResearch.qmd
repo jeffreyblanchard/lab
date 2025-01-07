@@ -11,7 +11,7 @@ title: "Our Research"
 ![](images/giant_virus.png){width="200"}
 </div>
 
-Unexpectedly, we discovered 16 giant viruses in our climate warming study at Harvard Forest, including the world's 2nd largest giant virus genome, 6 ranking in the top 100 and all 16 representing new species, genera or families. We are using environmental genomics to discovery new lineages of viral life and establishing cultures systems so to study them further in the laboratory. The TEM image (colorized) of a Harvard Forest giant virus comes from our collaborators Matthias Fisher and Ulli Mersdorf at the Max Planck Institute in Heidelberg.
+Unexpectedly, we discovered 16 giant viruses in our climate warming study at Harvard Forest, including the world's 2nd largest giant virus genome, 6 ranking in the top 100 and all 16 representing new species, genera or families. We are using environmental genomics to discovery new lineages of viral life and establishing cultures systems to study these further in the laboratory. The TEM image (colorized) of a Harvard Forest giant virus comes from our collaborators Matthias Fisher and Ulli Mersdorf at the Max Planck Institute in Heidelberg.
 
 ### Ecological and evolutionary genetic responses to long-term experimental soil warming
 
