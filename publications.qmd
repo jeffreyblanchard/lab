@@ -84,7 +84,7 @@ title: "Publications"
 
 -   Blanchard JL (2004) Bioinformatics and Systems Biology, rapidly evolving tools for interpreting plant response to global change. Field Crops Research. 90:117-131
 
-## National Center for Genome Resources
+## National Center for Genome Resources (Postdoctoral research)
 
 -   de Visser AJM, Hermisson J, Wagner, GP, Ancel LW, Bagheri-Chaichian H, Blanchard JL, Chao L, Cheverud JM, Elena SF, Fontana W, Gibson G, Hansen TF, Krakauer D, Lewontin RC, Ofria C, Rice SH, von Dassow G, Wagner A, Whitlock MC (2003) Evolution and detection of genetic robustness. Evolution. 57:1959-1972
 
@@ -92,7 +92,7 @@ title: "Publications"
 
 -   Brinkman FSL, Blanchard JL, Greberg H, Wan I, De Koning A, Av-Gay Y, Brunham RC, Fernandez RC, Finlay BB, Otto SP, Ouellette BF, Keeling P, Hancock REW, Rose AM, SJM Jones (2002). Evidence that plant-like genes in Chlamydia species reflect an ancestral relationship between Chlamydiaceae, cyanobacteria, and the chloroplast. Genome Research. 12:1159-67
 
-## University of Oregon
+## University of Oregon (Postdoctoral research)
 
 -   Blanchard JL, Lynch M (2000) Organelle Genes: why do organellar genes end up in the nucleus? Trends in Genetics. 16:315-320
 
@@ -104,7 +104,7 @@ title: "Publications"
 
 -   Lynch M, Blanchard JL (1998) Deleterious mutation accumulation in organelle genomes. Genetica. 102/103:29-39
 
-## University of Georgia
+## University of Georgia (PhD research)
 
 -   Bruns BU, Blanchard JL, Schmidt GW (1998) On the modulation of thylakoid structure and function upon adaptation to prolonged nitrogen-deficiency. Pp. 3081-3086 in Photosynthesis: Mechanisms and Effects (IV), G. Garab (ed), Kluwer Acad. Publ., Dordrecht
 
@@ -112,11 +112,11 @@ title: "Publications"
 
 -   Blanchard JL, Schmidt GW (1995) Pervasive migration of organellar DNA to the nucleus in plants. Journal of Molecular Evolution. 41:397-406
 
-## Genentech Inc.
+## Genentech Inc. (Between undergraduate and graduate research)
 
 -   Chen AB, Championsmith AA, Blanchard JL, Niepelt BA, Federici MM, Formento J, Sinicropi DV (1992) Quantitation of E. coli protein impurities in recombinant human interferon. Applied Biochemistry and Biotechnology. 36:137-152
 
-## Worcester Polytechnic Institute
+## Worcester Polytechnic Institute (Undergraduate research)
 
 -   Weathers PJ, Blanchard JL (1990) Multiple fruiting of the edible mushroom, Coprinus cinereus, from explants of the stipe. Applied Microbiology and Biotechnology. 33:652-656
 
