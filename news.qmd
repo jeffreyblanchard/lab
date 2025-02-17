@@ -1,8 +1,12 @@
 ---
 title: "News"
 ---
+## 2025
 
-## 2024 
+-   Feb 2025 Sophia's work on improving accessibility for undergraduate researchers is spotlighted in the <a href="https://www.umass.edu/it/deiw/spotlight" target=" _blank">UMass Digital Equity and Inclusion Week (DEIW) 2025</a>
+
+## 2025
+
 -   Dec 2024 Congratulations to Nish and Arav on their respective CHC Honor's theses and mid-year graduations!
 -   Oct 2024 Inside UMass - <a href="https://www.umass.edu/news/article/propel-provides-mentors-access-diverse-pool-aspiring-undergraduate-researchers" target=" _blank">PROPEL Provides Mentors Access to Diverse Pool of Aspiring Undergraduate Researchers</a>
 -   Aug 2024 Our first paper from our NSF Long Term Ecological Research (LTER) EMERGENT Synthesis working group is now out <a href="https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-024-00599-w" target=" _blank">From soil to sequence: filling the critical gap in genome-resolved metagenomics is essential to the future of soil microbial ecology</a>
