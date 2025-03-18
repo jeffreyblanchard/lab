@@ -12,7 +12,7 @@ title: "Publications"
 
 -   Pakrasi H, Ajo-Franklin C, Donner L, Argueso C, González-Cruz JE, Jones Prather K, Assmann SM, Hungate BA, Schmutz J, Basso B, Juenger T, Segrè D, Blanchard J, Liu X, Shupe MD, Chiao S, Marshall W, Delamere J, Pawlowska T, Taufer M, Fields M, Petch, J, Zeng, X, Fridlind AM (2024) Project Assessment for Biological and Environmental Research: Report from the BER Advisory Committee. https://doi.org/10.2172/2352752 
 
--   Fisher M, Mersdorf U, Blanchard JL (2023) Amazing structural diversity of giant virus-like particles in forest soil. <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546935v1" target="_blank">BioRxiv</a>
+-   Fisher M, Mersdorf U, Blanchard JL (2023) Amazing structural diversity of giant virus-like particles in forest soil. <a href="https://www.biorxiv.org/content/10.1101/2023.06.30.546935v1" target="_blank">bioRxiv 2023.06.30.546935</a> *This article is a preprint and has not been certified by peer review.*
 
 -   Pavlopoulos GA, Baltoumas FA, Liu S, Selvitopi O, Camargo AP, Nayfach S, Azad A, Roux S, Call L, Ivanova NN, Chen IM, Paez-Espino D, Karatzas E; Novel Metagenome Protein Families Consortium (including Blanchard JL); Iliopoulos I, Konstantinidis K, Tiedje JM, Pett-Ridge J, Baker D, Visel A, Ouzounis CA, Ovchinnikov S, Buluç A, Kyrpides NC (2023). Unraveling the functional dark matter through global metagenomics. Nature. Oct;622(7983):594-602. doi: 10.1038/s41586-023-06583-7.
 
