@@ -139,3 +139,7 @@ Funding for the lab currently comes National Science Foundation, Department of E
 ## Acknowledgements
 
 Some text on this page was taken directly from Mariam Aly's lab manual.
+
+## Unity
+
+Yes we seek unity! Unity is also our UMass High Performance Computing Cluster. Here is are some [tips for getting started](unity.html).
