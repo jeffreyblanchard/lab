@@ -160,7 +160,8 @@ Unity is our UMass High Performance Computing Cluster. Here is are some tips for
 
 ## Unity OnDemand
 
-The easiest way to use Unity is to select `Open OnDemand` after you log in from the menu on the left. On the Dashboard select `Interactive Apps` to choose your preferred interface.  Starting one of these apps is essentially starting a job on Unity. We typically use the Rstudio, Jupyter or VSCode interfaces. You need to specify the resources needed and time. For much of the basic work we do the defaults of 2 CPU and 8 GB Memory are fine. Sometimes if we am running gene expression analysis or something that requires more compute power up these to 8 and 32. If you are running specific software that requires more than 5 minutes or more computer power to run, you should submit a [batch job using Slurm](https://docs.unity.rc.umass.edu/documentation/jobs/sbatch/).
+The easiest way to use Unity is to select `Open OnDemand` after you log in from the menu on the left. On the Dashboard select `Interactive Apps` to choose your preferred interface.  Starting one of these apps is essentially starting a job on Unity. We typically use the Rstudio, Jupyter or VSCode interfaces. You need to specify the resources needed and time. For much of the basic work we do the defaults of 2 CPU and 8 GB Memory are fine. Sometimes if we am running gene expression analysis or something that requires more compute power up these to 8 and 32. If you are running specific software that requires more than 5 minutes or more computer power to run, you should submit a [batch job using Slurm](https://docs.unity.rc.umass.edu/documentation/jobs/sbatch/). You can also click on `Files` to (1) Navigate the Unity filesystem, (2) Copy, move, create, and delete files and directories (folders)
+(3) Upload and download files from/to your local machine, (4) Edit text files and (5) View images
 
 ![Open OnDemand Dashboard](images/Unity_OnDemand.png){width="400"}
 
