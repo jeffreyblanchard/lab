@@ -480,6 +480,13 @@
     "href": "training.html#using-software-installed-on-unity-and-through-conda",
     "title": "Training and Lab Expectations",
     "section": "Using software installed on Unity and through Conda",
-    "text": "Using software installed on Unity and through Conda\nBefore you run bioinformatic tools on Unity, you first need to load the software using Environmental Modules - Unity Docs. As noted in the documentation software is often run in batch mode using Slurm. We often write a python script to run the sbatch file. If using the software doesn’t take much time or resources you can run it on the command line.\nMuch of the bioinformatics that we use in our lab is installed using Conda - Unity Docs because often it is a suite of interacting tools that require specific versions to work correctly. When the development group releases their tools in Conda it has all of the right versions. Note that we need to start the Conda module and then activate the module specific for the bioinformatic tool.\n\nTransfering data from Unity to Biology’s Network Attached Storage (NAS)\nComing soon…directions for backing up data on Unity to Biology’s Network Attached Storage (NAS)."
+    "text": "Using software installed on Unity and through Conda\nBefore you run bioinformatic tools on Unity, you first need to load the software using Environmental Modules - Unity Docs. As noted in the documentation software is often run in batch mode using Slurm. We often write a python script to run the sbatch file. If using the software doesn’t take much time or resources you can run it on the command line.\nMuch of the bioinformatics that we use in our lab is installed using Conda - Unity Docs because often it is a suite of interacting tools that require specific versions to work correctly. When the development group releases their tools in Conda it has all of the right versions. Note that we need to start the Conda module and then activate the module specific for the bioinformatic tool."
+  },
+  {
+    "objectID": "training.html#transfering-data-from-unity-to-biologys-network-attached-storage-nas",
+    "href": "training.html#transfering-data-from-unity-to-biologys-network-attached-storage-nas",
+    "title": "Training and Lab Expectations",
+    "section": "Transfering data from Unity to Biology’s Network Attached Storage (NAS)",
+    "text": "Transfering data from Unity to Biology’s Network Attached Storage (NAS)\nComing soon…directions for backing up data on Unity to Biology’s Network Attached Storage (NAS)."
   }
 ]

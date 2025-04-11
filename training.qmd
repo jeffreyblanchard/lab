@@ -174,7 +174,7 @@ Before you run bioinformatic tools on Unity, you first need to load the software
 
 Much of the bioinformatics that we use in our lab is installed using [Conda - Unity Docs](https://docs.unity.uri.edu/documentation/software/conda/) because often it is a suite of interacting tools that require specific versions to work correctly. When the development group releases their tools in Conda it has all of the right versions. Note that we need to start the Conda module and then activate the module specific for the bioinformatic tool.
 
-### Transfering data from Unity to Biology's Network Attached Storage (NAS)
+## Transfering data from Unity to Biology's Network Attached Storage (NAS)
 
 Coming soon...directions for backing up data on Unity to Biology's Network Attached Storage (NAS).
 
