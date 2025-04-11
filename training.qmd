@@ -142,7 +142,7 @@ Some text on this page was taken directly from an older version of Mariam Aly's 
 
 # Unity
 
-Yes we seek unity! Unity is our UMass High Performance Computing Cluster. Here is are some tips for getting started.
+Unity is our UMass High Performance Computing Cluster. Here is are some tips for getting started.
 
 ## Quick links
 
