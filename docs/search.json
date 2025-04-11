@@ -32,7 +32,7 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Apr 2025 Thankfully someone will be developing vaccines this next year. Deeksha will be doing this through a Co-Op with Sanofi starting in the summer through the end of the Fall 2025 Semester.\nApr 2025 Nish and Vartika presented a poster on their research “Emergence of a novel virus following long-term experimental soil warming” at the New England Biolab’s “Decoding the Biosphere: Advances in Environmental DNA and Metagenomics” Symposium with Jeff, Deeksha and Sonya there for support.\nApr 2025 Persistence, hard work and determination (PHD) led to Jared’s acceptance into the Biology and Biomedical Sciences PhD program at Washington University in St. Louis.\nMar 2025 Vartika will be spending the summer at Purdue on a genomics internship.\nFeb 2025 Sophia’s work on improving accessibility for undergraduate researchers was selected for the spotlight during the UMass Digital Equity and Inclusion Week (DEIW) 2025\nFeb 2025 Jeff has been selected as a Office of Faculty Development Scholar"
+    "text": "Apr 2025 Thankfully someone will be developing vaccines this next year. Deeksha will be through a Co-Op with Sanofi starting in the summer through the end of the Fall 2025 Semester.\nApr 2025 Nish and Vartika presented a poster on their research “Emergence of a novel virus following long-term experimental soil warming” at the New England Biolab’s “Decoding the Biosphere: Advances in Environmental DNA and Metagenomics” Symposium with Jeff, Deeksha and Sonya there for support.\nApr 2025 Persistence, hard work and determination (PHD) led to Jared’s acceptance into the Biology and Biomedical Sciences PhD program at Washington University in St. Louis.\nMar 2025 Vartika will be spending the summer at Purdue on a genomics internship.\nFeb 2025 Sophia’s work on improving accessibility for undergraduate researchers was selected for the spotlight during the UMass Digital Equity and Inclusion Week (DEIW) 2025\nFeb 2025 Jeff has been selected as a Office of Faculty Development Scholar"
   },
   {
     "objectID": "OurResearch_old.html",
@@ -186,14 +186,14 @@
     "href": "training.html#funding",
     "title": "Training and Lab Expectations",
     "section": "Funding",
-    "text": "Funding\nFunding for the lab currently comes National Science Foundation, Department of Energy and USDA grants. If you need to buy something, or have to charge a grant for something, let Jeff know and he will oversee the process. At some point, you will likely be asked to provide a figure or two for a grant Jeff is writing, and/or provide feedback on the grant. Relatedly, you are entitled to read any grant Jeff has submitted, whether it is ultimately funded or not. Aside from being a good opportunity to learn how grants are written, this will also allow you to see his vision for the lab in the years ahead. Feel free to ask Jeff to see any of the grants."
+    "text": "Funding\nFunding for the lab currently comes National Science Foundation, Department of Energy and USDA grants. If you need to buy something, or have to charge a grant for something, let Jeff know and he will oversee the process. At some point, you will likely be asked to provide a figure or two for a grant Jeff is writing, and/or provide feedback on the grant. You are entitled to read any grant Jeff has submitted, whether it is ultimately funded or not. Aside from being a good opportunity to learn how grants are written, this will also allow you to see his vision for the lab in the years ahead. Feel free to ask Jeff to see any of the grants."
   },
   {
     "objectID": "training.html#acknowledgements",
     "href": "training.html#acknowledgements",
     "title": "Training and Lab Expectations",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nSome text on this page was taken directly from Mariam Aly’s lab manual."
+    "text": "Acknowledgements\nSome text on this page was taken directly from an older version of Mariam Aly’s lab manual. Here is a link to the new manual."
   },
   {
     "objectID": "news.html#section-1",
@@ -375,7 +375,7 @@
     "href": "news.html#section",
     "title": "News",
     "section": "",
-    "text": "Apr 2025 Thankfully someone will be developing vaccines this next year. Deeksha will be doing this through a Co-Op with Sanofi starting in the summer through the end of the Fall 2025 Semester.\nApr 2025 Nish and Vartika presented a poster on their research “Emergence of a novel virus following long-term experimental soil warming” at the New England Biolab’s “Decoding the Biosphere: Advances in Environmental DNA and Metagenomics” Symposium with Jeff, Deeksha and Sonya there for support.\nApr 2025 Persistence, hard work and determination (PHD) led to Jared’s acceptance into the Biology and Biomedical Sciences PhD program at Washington University in St. Louis.\nMar 2025 Vartika will be spending the summer at Purdue on a genomics internship.\nFeb 2025 Sophia’s work on improving accessibility for undergraduate researchers was selected for the spotlight during the UMass Digital Equity and Inclusion Week (DEIW) 2025\nFeb 2025 Jeff has been selected as a Office of Faculty Development Scholar"
+    "text": "Apr 2025 Thankfully someone will be developing vaccines this next year. Deeksha will be through a Co-Op with Sanofi starting in the summer through the end of the Fall 2025 Semester.\nApr 2025 Nish and Vartika presented a poster on their research “Emergence of a novel virus following long-term experimental soil warming” at the New England Biolab’s “Decoding the Biosphere: Advances in Environmental DNA and Metagenomics” Symposium with Jeff, Deeksha and Sonya there for support.\nApr 2025 Persistence, hard work and determination (PHD) led to Jared’s acceptance into the Biology and Biomedical Sciences PhD program at Washington University in St. Louis.\nMar 2025 Vartika will be spending the summer at Purdue on a genomics internship.\nFeb 2025 Sophia’s work on improving accessibility for undergraduate researchers was selected for the spotlight during the UMass Digital Equity and Inclusion Week (DEIW) 2025\nFeb 2025 Jeff has been selected as a Office of Faculty Development Scholar"
   },
   {
     "objectID": "index.html#discover-life-below",
@@ -445,6 +445,34 @@
     "href": "training.html#unity",
     "title": "Training and Lab Expectations",
     "section": "Unity",
-    "text": "Unity\nYes we seek unity! Unity is also our UMass High Performance Computing Cluster. Here is are some tips for getting started."
+    "text": "Unity\nYes we seek unity! Unity is our UMass High Performance Computing Cluster. Here is are some tips for getting started."
+  },
+  {
+    "objectID": "unity.html",
+    "href": "unity.html",
+    "title": "Unity",
+    "section": "",
+    "text": "Quick links\n\nUnity Home Page and Login Request an account listing under your PI (e.g. pi_jlb_umass_edu)\nUnity Documentation Site Much useful information here. If you don’t find your answer here, ask on Slack.\nUnity User Community on Slack The Unity staff is good at responding to Slack posts (usually within a day)\nUnity Onboarding and Bioinformatics workshops These are a nice way to get started and develop your skills\nUnity Quick Start\nUnity R Documentation\n\n\n\nUnity OnDemand\nThe easiest way to use Unity is to select Open OnDemand after you log in from the menu on the left. On the Dashboard select Interactive Apps to choose your preferred interface. Starting one of these apps is essentially starting a job on Unity. We typically use the Rstudio, Jupyter or VSCode interfaces. You need to specific the resources needed and time. For much of the basic work we do the defaults of 2 CPU and 8 GB Memory are fine. Sometimes if we am running gene expression analysis or something that requires more compute power up these to 8 and 32. If you are running specific software requires more than 5 minutes or more computer power to run, you should submit a batch job using Slurm.\n\n\n\nOpen OnDemand Dashboard\n\n\n\n\nHome, Work and Project Directories\nYour /home directory is for configuration files and code installations. It has a set quota of 50G. You should do all of your work in our lab work directory (/work/pi_jlb_umass_edu). This has more space, it is nice for collaboration, and your work is accessible to the rest of the group after you leave UMass. Create a directory for yourself and/or your project in /work/pi_jlb_umass_edu/blanchardlab. For projects that require large datasets or databases, these files will be in our /project/pi_jlb_umass_edu directory. However you should run all of your scripts/jobs from the work directory and have the results written to our work directory\n\n\nTransfering data from Unity to Biology’s Network Attached Storage (NAS)\nComing soon…directions for backing up data on Unity to Biology’s Network Attached Storage (NAS)"
+  },
+  {
+    "objectID": "training.html#quick-links",
+    "href": "training.html#quick-links",
+    "title": "Training and Lab Expectations",
+    "section": "Quick links",
+    "text": "Quick links\n\nUnity Home Page and Login Request an account listing under your PI (e.g. pi_jlb_umass_edu)\nUnity Documentation Site Much useful information here. If you don’t find your answer here, ask on Slack.\nUnity User Community on Slack The Unity staff is good at responding to Slack posts (usually within a day)\nUnity Onboarding and Bioinformatics workshops These are a nice way to get started and develop your skills\nUnity Quick Start\nUnity R Documentation"
+  },
+  {
+    "objectID": "training.html#unity-ondemand",
+    "href": "training.html#unity-ondemand",
+    "title": "Training and Lab Expectations",
+    "section": "Unity OnDemand",
+    "text": "Unity OnDemand\nThe easiest way to use Unity is to select Open OnDemand after you log in from the menu on the left. On the Dashboard select Interactive Apps to choose your preferred interface. Starting one of these apps is essentially starting a job on Unity. We typically use the Rstudio, Jupyter or VSCode interfaces. You need to specific the resources needed and time. For much of the basic work we do the defaults of 2 CPU and 8 GB Memory are fine. Sometimes if we am running gene expression analysis or something that requires more compute power up these to 8 and 32. If you are running specific software requires more than 5 minutes or more computer power to run, you should submit a batch job using Slurm.\n\n\n\nOpen OnDemand Dashboard"
+  },
+  {
+    "objectID": "training.html#home-work-and-project-directories",
+    "href": "training.html#home-work-and-project-directories",
+    "title": "Training and Lab Expectations",
+    "section": "Home, Work and Project Directories",
+    "text": "Home, Work and Project Directories\nYour /home directory is for configuration files and code installations. It has a set quota of 50G. You should do all of your work in our lab work directory (/work/pi_jlb_umass_edu). This has more space, it is nice for collaboration, and your work is accessible to the rest of the group after you leave UMass. Create a directory for yourself and/or your project in /work/pi_jlb_umass_edu/blanchardlab. For projects that require large datasets or databases, these files will be in our /project/pi_jlb_umass_edu directory. However you should run all of your scripts/jobs from the work directory and have the results written to our work directory\n\nTransfering data from Unity to Biology’s Network Attached Storage (NAS)\nComing soon…directions for backing up data on Unity to Biology’s Network Attached Storage (NAS)"
   }
 ]

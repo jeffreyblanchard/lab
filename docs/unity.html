@@ -128,7 +128,16 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#quick-links" id="toc-quick-links" class="nav-link active" data-scroll-target="#quick-links">Quick links</a></li>
+  <li><a href="#unity-ondemand" id="toc-unity-ondemand" class="nav-link" data-scroll-target="#unity-ondemand">Unity OnDemand</a></li>
+  <li><a href="#home-work-and-project-directories" id="toc-home-work-and-project-directories" class="nav-link" data-scroll-target="#home-work-and-project-directories">Home, Work and Project Directories</a></li>
+  <li><a href="#transfering-data-from-unity-to-biologys-network-attached-storage-nas" id="toc-transfering-data-from-unity-to-biologys-network-attached-storage-nas" class="nav-link" data-scroll-target="#transfering-data-from-unity-to-biologys-network-attached-storage-nas">Transfering data from Unity to Biology’s Network Attached Storage (NAS)</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -152,8 +161,37 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="quick-links" class="level3">
+<h3 class="anchored" data-anchor-id="quick-links">Quick links</h3>
+<ul>
+<li><p><a href="https://unity.rc.umass.edu/index.php">Unity Home Page and Login</a> Request an account listing under your PI (e.g.&nbsp;pi_jlb_umass_edu)</p></li>
+<li><p><a href="https://docs.unity.rc.umass.edu/">Unity Documentation Site</a> Much useful information here. If you don’t find your answer here, ask on Slack.</p></li>
+<li><p><a href="https://docs.unity.rc.umass.edu/contact/community/">Unity User Community on Slack</a> The Unity staff is good at responding to Slack posts (usually within a day)</p></li>
+<li><p><a href="https://docs.unity.rc.umass.edu/events/">Unity Onboarding and Bioinformatics workshops</a> These are a nice way to get started and develop your skills</p></li>
+<li><p><a href="https://docs.unity.rc.umass.edu/documentation/get-started/quickstart/">Unity Quick Start</a></p></li>
+<li><p><a href="https://docs.unity.rc.umass.edu/documentation/tools/r/">Unity R Documentation</a></p></li>
+</ul>
+</section>
+<section id="unity-ondemand" class="level3">
+<h3 class="anchored" data-anchor-id="unity-ondemand">Unity OnDemand</h3>
+<p>The easiest way to use Unity is to select <code>Open OnDemand</code> after you log in from the menu on the left. On the Dashboard select <code>Interactive Apps</code> to choose your preferred interface. Starting one of these apps is essentially starting a job on Unity. We typically use the Rstudio, Jupyter or VSCode interfaces. You need to specific the resources needed and time. For much of the basic work we do the defaults of 2 CPU and 8 GB Memory are fine. Sometimes if we am running gene expression analysis or something that requires more compute power up these to 8 and 32. If you are running specific software requires more than 5 minutes or more computer power to run, you should submit a <a href="https://docs.unity.rc.umass.edu/documentation/jobs/sbatch/">batch job using Slurm</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/Unity_OnDemand.png" class="img-fluid figure-img" width="400"></p>
+<figcaption>Open OnDemand Dashboard</figcaption>
+</figure>
+</div>
+</section>
+<section id="home-work-and-project-directories" class="level3">
+<h3 class="anchored" data-anchor-id="home-work-and-project-directories">Home, Work and Project Directories</h3>
+<p>Your /home directory is for configuration files and code installations. It has a set quota of 50G. You should do all of your work in our lab work directory (/work/pi_jlb_umass_edu). This has more space, it is nice for collaboration, and your work is accessible to the rest of the group after you leave UMass. Create a directory for yourself and/or your project in /work/pi_jlb_umass_edu/blanchardlab. For projects that require large datasets or databases, these files will be in our /project/pi_jlb_umass_edu directory. However you should run all of your scripts/jobs from the work directory and have the results written to our work directory</p>
+</section>
+<section id="transfering-data-from-unity-to-biologys-network-attached-storage-nas" class="level3">
+<h3 class="anchored" data-anchor-id="transfering-data-from-unity-to-biologys-network-attached-storage-nas">Transfering data from Unity to Biology’s Network Attached Storage (NAS)</h3>
+<p>Coming soon…directions for backing up data on Unity to Biology’s Network Attached Storage (NAS)</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
