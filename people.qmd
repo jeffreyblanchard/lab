@@ -4,7 +4,21 @@ title: "People in our research group"
 
 ## 2025 
 
-PROPEL Research Fellows 
+[List of Current and Former People in Our Lab](people_list.qmd)
+
+Massachusetts Undergraduate Research Conference
+
+![Sophia, Sophia, Noor, Amren, Nekeria](images/Nekeria_Noor_Amren_URC.jpg)
+
+![Noor, Amren](images/Amren_Noor_URC.jpg)
+
+![Sophia](images/Sophia_URC.jpg)
+
+![Jazlynn, Deeksha, Sonya](images/Jazlynn_Deeksha_URC.jpg)
+
+![Vartika](images/Vartika_URC.jpg)
+
+PROPEL Research Fellows UMassGives
 
 ![Sophia, Sophia, Noor, Amren, Nekeria](images/2025_PROPEL_UMassGives_ThankYou.png)
 
