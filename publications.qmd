@@ -110,6 +110,8 @@ title: "Publications"
 
 -   Blanchard JL, Schmidt GW (1996) Mitochondrial DNA migration events in yeast and mammals: integration by a common end-joining mechanism and alternative perspectives on nucleotide substitution patterns. Molecular Biology and Evolution. 13:537-548
 
+-   Blanchard JL (1995) The enigmatic chloroplast ndh genes : from chlororespiration to DNA migration. PhD thesis. University of Georgia
+
 -   Blanchard JL, Schmidt GW (1995) Pervasive migration of organellar DNA to the nucleus in plants. Journal of Molecular Evolution. 41:397-406
 
 ## Genentech Inc. (Between undergraduate and graduate research)

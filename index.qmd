@@ -2,7 +2,7 @@
 title: "Blanchard Research Laboratory"
 ---
 
-![](images/Alex.png){width="1000"}
+![Life Below](images/Alex.png){width="1000"}
 
 # Discover Life Below!
 
