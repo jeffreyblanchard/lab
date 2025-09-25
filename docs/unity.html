@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>OurMicrobiome - Unity</title>
+<title>Unity – OurMicrobiome</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-ac7a74e6b6dd7daa248336fbf4ff6cb4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -118,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -132,10 +132,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#quick-links" id="toc-quick-links" class="nav-link active" data-scroll-target="#quick-links">Quick links</a></li>
+  <li><a href="#unity" id="toc-unity" class="nav-link active" data-scroll-target="#unity">Unity</a>
+  <ul class="collapse">
+  <li><a href="#quick-links" id="toc-quick-links" class="nav-link" data-scroll-target="#quick-links">Quick links</a></li>
   <li><a href="#unity-ondemand" id="toc-unity-ondemand" class="nav-link" data-scroll-target="#unity-ondemand">Unity OnDemand</a></li>
   <li><a href="#home-work-and-project-directories" id="toc-home-work-and-project-directories" class="nav-link" data-scroll-target="#home-work-and-project-directories">Home, Work and Project Directories</a></li>
-  <li><a href="#transfering-data-from-unity-to-biologys-network-attached-storage-nas" id="toc-transfering-data-from-unity-to-biologys-network-attached-storage-nas" class="nav-link" data-scroll-target="#transfering-data-from-unity-to-biologys-network-attached-storage-nas">Transfering data from Unity to Biology’s Network Attached Storage (NAS)</a></li>
+  <li><a href="#using-software-installed-on-unity-and-through-conda" id="toc-using-software-installed-on-unity-and-through-conda" class="nav-link" data-scroll-target="#using-software-installed-on-unity-and-through-conda">Using software installed on Unity and through Conda</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -161,8 +164,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="quick-links" class="level3">
-<h3 class="anchored" data-anchor-id="quick-links">Quick links</h3>
+<section id="unity" class="level1">
+<h1>Unity</h1>
+<p>Unity is our UMass High Performance Computing Cluster. Here is are some tips for getting started.</p>
+<section id="quick-links" class="level2">
+<h2 class="anchored" data-anchor-id="quick-links">Quick links</h2>
 <ul>
 <li><p><a href="https://unity.rc.umass.edu/index.php">Unity Home Page and Login</a> Request an account listing under your PI (e.g.&nbsp;pi_jlb_umass_edu)</p></li>
 <li><p><a href="https://docs.unity.rc.umass.edu/">Unity Documentation Site</a> Much useful information here. If you don’t find your answer here, ask on Slack.</p></li>
@@ -172,9 +178,9 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="https://docs.unity.rc.umass.edu/documentation/tools/r/">Unity R Documentation</a></p></li>
 </ul>
 </section>
-<section id="unity-ondemand" class="level3">
-<h3 class="anchored" data-anchor-id="unity-ondemand">Unity OnDemand</h3>
-<p>The easiest way to use Unity is to select <code>Open OnDemand</code> after you log in from the menu on the left. On the Dashboard select <code>Interactive Apps</code> to choose your preferred interface. Starting one of these apps is essentially starting a job on Unity. We typically use the Rstudio, Jupyter or VSCode interfaces. You need to specific the resources needed and time. For much of the basic work we do the defaults of 2 CPU and 8 GB Memory are fine. Sometimes if we am running gene expression analysis or something that requires more compute power up these to 8 and 32. If you are running specific software requires more than 5 minutes or more computer power to run, you should submit a <a href="https://docs.unity.rc.umass.edu/documentation/jobs/sbatch/">batch job using Slurm</a>.</p>
+<section id="unity-ondemand" class="level2">
+<h2 class="anchored" data-anchor-id="unity-ondemand">Unity OnDemand</h2>
+<p>The easiest way to use Unity is to select <code>Open OnDemand</code> after you log in from the menu on the left. On the Dashboard select <code>Interactive Apps</code> to choose your preferred interface. Starting one of these apps is essentially starting a job on Unity. We typically use the Rstudio, Jupyter or VSCode interfaces. You need to specify the resources needed and time. For much of the basic work we do the defaults of 2 CPU and 8 GB Memory are fine. Sometimes if we am running gene expression analysis or something that requires more compute power up these to 8 and 32. If you are running specific software that requires more than 5 minutes or more computer power to run, you should submit a <a href="https://docs.unity.rc.umass.edu/documentation/jobs/sbatch/">batch job using Slurm</a>. You can also click on <code>Files</code> to (1) Navigate the Unity filesystem, (2) Copy, move, create, and delete files and directories (folders) (3) Upload and download files from/to your local machine, (4) Edit text files and (5) View images</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/Unity_OnDemand.png" class="img-fluid figure-img" width="400"></p>
@@ -182,15 +188,17 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="home-work-and-project-directories" class="level3">
-<h3 class="anchored" data-anchor-id="home-work-and-project-directories">Home, Work and Project Directories</h3>
-<p>Your /home directory is for configuration files and code installations. It has a set quota of 50G. You should do all of your work in our lab work directory (/work/pi_jlb_umass_edu). This has more space, it is nice for collaboration, and your work is accessible to the rest of the group after you leave UMass. Create a directory for yourself and/or your project in /work/pi_jlb_umass_edu/blanchardlab. For projects that require large datasets or databases, these files will be in our /project/pi_jlb_umass_edu directory. However you should run all of your scripts/jobs from the work directory and have the results written to our work directory</p>
+<section id="home-work-and-project-directories" class="level2">
+<h2 class="anchored" data-anchor-id="home-work-and-project-directories">Home, Work and Project Directories</h2>
+<p>Your <code>/home directory</code> is for configuration files and code installations. It has a set quota of 50G. You should do all of your work in our lab work directory (<code>/work/pi_jlb_umass_edu</code>). This has more space, it is nice for collaboration, and your work is accessible to the rest of the group after you leave UMass. Create a directory for yourself and/or your project in <code>/work/pi_jlb_umass_edu/blanchardlab</code>. For projects that require large datasets or databases, these files will be in our <code>/project/pi_jlb_umass_edu</code> directory. However you should run all of your scripts and jobs from the work directory and have the results written to our work directory.</p>
 </section>
-<section id="transfering-data-from-unity-to-biologys-network-attached-storage-nas" class="level3">
-<h3 class="anchored" data-anchor-id="transfering-data-from-unity-to-biologys-network-attached-storage-nas">Transfering data from Unity to Biology’s Network Attached Storage (NAS)</h3>
-<p>Coming soon…directions for backing up data on Unity to Biology’s Network Attached Storage (NAS)</p>
+<section id="using-software-installed-on-unity-and-through-conda" class="level2">
+<h2 class="anchored" data-anchor-id="using-software-installed-on-unity-and-through-conda">Using software installed on Unity and through Conda</h2>
+<p>Before you run bioinformatic tools on Unity, you first need to load the software using <a href="https://docs.unity.uri.edu/documentation/software/modules/module-usage/">Environmental Modules - Unity Docs</a>. As noted in the documentation software is often run in <a href="https://docs.unity.rc.umass.edu/documentation/jobs/sbatch/">batch mode using Slurm</a>. We often write a python script to run the sbatch file. If using the software doesn’t take much time or resources you can run it on the command line.</p>
+<p>Much of the bioinformatics that we use in our lab is installed using <a href="https://docs.unity.uri.edu/documentation/software/conda/">Conda - Unity Docs</a> because often it is a suite of interacting tools that require specific versions to work correctly. When the development group releases their tools in Conda it has all of the right versions. Note that we need to start the Conda module and then activate the module specific for the bioinformatic tool.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -229,18 +237,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -272,7 +269,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -280,7 +297,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -377,7 +394,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

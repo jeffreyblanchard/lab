@@ -138,44 +138,5 @@ Funding for the lab currently comes National Science Foundation, Department of E
 
 ## Acknowledgements
 
-Some text on this page was taken directly from an older version of Mariam Aly's lab manual. Here is a link to the [current version](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf).
-
-# Unity
-
-Unity is our UMass High Performance Computing Cluster. Here is are some tips for getting started.
-
-## Quick links
-
--   [Unity Home Page and Login](https://unity.rc.umass.edu/index.php) Request an account listing under your PI (e.g. pi_jlb_umass_edu)
-
--   [Unity Documentation Site](https://docs.unity.rc.umass.edu/) Much useful information here. If you don't find your answer here, ask on Slack.
-
--   [Unity User Community on Slack](https://docs.unity.rc.umass.edu/contact/community/) The Unity staff is good at responding to Slack posts (usually within a day)
-
--   [Unity Onboarding and Bioinformatics workshops](https://docs.unity.rc.umass.edu/events/) These are a nice way to get started and develop your skills
-
--   [Unity Quick Start](https://docs.unity.rc.umass.edu/documentation/get-started/quickstart/)
-
--   [Unity R Documentation](https://docs.unity.rc.umass.edu/documentation/tools/r/)
-
-## Unity OnDemand
-
-The easiest way to use Unity is to select `Open OnDemand` after you log in from the menu on the left. On the Dashboard select `Interactive Apps` to choose your preferred interface.  Starting one of these apps is essentially starting a job on Unity. We typically use the Rstudio, Jupyter or VSCode interfaces. You need to specify the resources needed and time. For much of the basic work we do the defaults of 2 CPU and 8 GB Memory are fine. Sometimes if we am running gene expression analysis or something that requires more compute power up these to 8 and 32. If you are running specific software that requires more than 5 minutes or more computer power to run, you should submit a [batch job using Slurm](https://docs.unity.rc.umass.edu/documentation/jobs/sbatch/). You can also click on `Files` to (1) Navigate the Unity filesystem, (2) Copy, move, create, and delete files and directories (folders)
-(3) Upload and download files from/to your local machine, (4) Edit text files and (5) View images
-
-![Open OnDemand Dashboard](images/Unity_OnDemand.png){width="400"}
-
-## Home, Work and Project Directories
-
-Your `/home directory` is for configuration files and code installations. It has a set quota of 50G. You should do all of your work in our lab work directory (`/work/pi_jlb_umass_edu`). This has more space, it is nice for collaboration, and your work is accessible to the rest of the group after you leave UMass. Create a directory for yourself and/or your project in `/work/pi_jlb_umass_edu/blanchardlab`. For projects that require large datasets or databases, these files will be in our `/project/pi_jlb_umass_edu` directory. However you should run all of your scripts and jobs from the work directory and have the results written to our work directory.
-
-## Using software installed on Unity and through Conda
-
-Before you run bioinformatic tools on Unity, you first need to load the software using [Environmental Modules - Unity Docs](https://docs.unity.uri.edu/documentation/software/modules/module-usage/). As noted in the documentation software is often run in [batch mode using Slurm](https://docs.unity.rc.umass.edu/documentation/jobs/sbatch/). We often write a python script to run the sbatch file. If using the software doesn't take much time or resources you can run it on the command line.
-
-Much of the bioinformatics that we use in our lab is installed using [Conda - Unity Docs](https://docs.unity.uri.edu/documentation/software/conda/) because often it is a suite of interacting tools that require specific versions to work correctly. When the development group releases their tools in Conda it has all of the right versions. Note that we need to start the Conda module and then activate the module specific for the bioinformatic tool.
-
-## Transfering data from Unity to Biology's Network Attached Storage (NAS)
-
-Coming soon...directions for backing up data on Unity to Biology's Network Attached Storage (NAS).
+Some text on this page was taken directly from an older version of Mariam Aly's lab manual. Here is a link to Professor Aly's [current version](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf).
 
