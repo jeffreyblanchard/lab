@@ -6,7 +6,7 @@ title: "Blanchard Research Laboratory "
 
 # Discover Life Below!
 
-Microbiome research is one the most exciting areas of science today. Our laboratory's long-term research goal is to contribute to the understanding of forest microbial communities and their response to climate change. We relish discovering novel bacteria and viruses in the Pioneer Valley, North Quabbin Woods and research sites at the Harvard Forest. Our local studies on underground microbiome communities provide a global perspective and have lead to applied applications in biofuels, probiotics and biotechnology. Our research is currently supported by the [National Science Foundation](http://www.nsf.gov/), [Department of Energy](http://energy.gov/), and [New England BioLabs](https://www.neb.com/research). Here our are [current research projects](OurResearch.html).
+Microbiome research is one the most exciting areas of science today. Our laboratory's long-term research goal is to contribute to the understanding of forest microbial communities and their response to climate change. We relish discovering novel bacteria and viruses in the Pioneer Valley, North Quabbin Woods and research sites at the Harvard Forest. Our local studies on underground microbiome communities provide a global perspective and have lead to applied applications in biofuels, probiotics and biotechnology. Our research is currently supported by the [National Science Foundation](http://www.nsf.gov/), [Department of Energy](http://energy.gov/), and [New England BioLabs](https://www.neb.com/research). Here are our [current research projects](OurResearch.html).
 
 
 ### Interested in working with us?
