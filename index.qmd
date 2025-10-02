@@ -1,9 +1,24 @@
 ---
-title: "Blanchard Research Laboratory"
+title: "Blanchard Research Laboratory "
 ---
 
-![Life Below](images/Alex.png){width="1000"}
+![Soil protists, bacteria, archaea and viruses](images/Alex.png){width="1000"}
 
 # Discover Life Below!
 
 Microbiome research is one the most exciting areas of science today. Our laboratory's long-term research goal is to contribute to the understanding of forest microbial communities and their response to climate change. We relish discovering novel bacteria and viruses in the Pioneer Valley, North Quabbin Woods and research sites at the Harvard Forest. Our local studies on underground microbiome communities provide a global perspective and have lead to applied applications in biofuels, probiotics and biotechnology. Our research is currently supported by the [National Science Foundation](http://www.nsf.gov/), [Department of Energy](http://energy.gov/), and [New England BioLabs](https://www.neb.com/research).
+
+
+### Interested in working with us?
+
+A strength of our broad [Biology Department](https://www.umass.edu/biology/) is the diverse research areas of our faculty and an intellectual breadth that helps us keep abreast of new trends across sub disciplines in the life sciences. We are dedicated to providing a diverse, accepting, and supportive environment. We prepare our students for a variety of professional career paths while building intellectual and technical skills. All of our PhD students are fully supported on either Research or Teaching Assistantships. I accept 5th Year Master's and PhD students through our [Molecular & Cellular Biology](https://www.umass.edu/molecular-cellular/) and [Organismal and Evolutionary Biology](https://www.umass.edu/organismic-evolutionary/) graduate programs. [Contact me directly](contact.html) if you are a prospective postdoc or graduate student interested in our research. 
+
+
+<div>
+<div style="float: left; position: relative; top: 0px; padding-right: 20px">
+[![](images/linkedin_propel_square.png){width="100"}](https://propel.umass.edu/)
+</div>
+
+We recruit undergraduate students through the UMass PROPEL (Promoting Research Opportunities for Equity in Learning) program to ensure equitable access to academic and research opportunities for all undergraduate students at the University of Massachusetts Amherst. We look for students with diverse life and intellectual perspectives. Students in our group have majored in Biology, Biochemistry & Molecular Biology, Microbiology, Anthropology, Computer Science, Informatics, Mathematics & Statistics and Psychology.
+
+

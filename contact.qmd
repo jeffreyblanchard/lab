@@ -4,10 +4,12 @@ title: "Contact Information"
 
 **Prof. Jeffrey Blanchard (he/they)**
 
--   Tel: 413-577-2130
 -   Email: jlb\@umass.edu
+-   Tel: 413-577-2130
 -   Office: Morrill III 409
 -   Lab: Morrill III 411
+-   [Map with the Morrill III](https://www.google.com/maps/place/611+N+Pleasant+St,+Amherst,+MA+01003)
+-   [Biology Department Website](https://www.umass.edu/biology/)
 
 **Mail:**
 

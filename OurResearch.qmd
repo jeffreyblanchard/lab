@@ -7,7 +7,7 @@ title: "Our Research"
 ### Revealing the Hidden Diversity of Terrestrial Giant Viruses
 
 <div>
-<div style="float: left; position: relative; top: 0px; padding: 20px;">
+<div style="float: left; position: relative; top: 0px; padding-right: 10px">
 ![](images/giant_virus.png){width="200"}
 </div>
 
@@ -20,7 +20,7 @@ The Barre Woods experimental warming site at Harvard Forest was established in 2
 ### Ecological Metagenome-derived Reference Genomes and Traits (EMERGENT)
 
 <div>
-<div style="float: right; position: relative; top: 0px; padding: 10px;">
+<div style="float: right; position: relative; top: 0px; padding-right: 10px">
 ![](images/soil_emergent.jpg){width="250"}
 </div>
 
