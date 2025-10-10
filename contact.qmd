@@ -2,6 +2,11 @@
 title: "Contact Information"
 ---
 
+<div>
+<div style="float: right; position: relative; top: 0px; padding-left: 20px">
+[![](images/Biology_insignia.png){width="400"}](https://www.umass.edu/biology/)
+</div>
+
 **Prof. Jeffrey Blanchard (he/they)**
 
 -   Email: jlb\@umass.edu

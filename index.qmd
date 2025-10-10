@@ -12,7 +12,7 @@ Microbiome research is one the most exciting areas of science today. Our laborat
 ### Interested in working with us?
 
 <div>
-<div style="float: right; position: relative; top: 0px; padding-right: 20px">
+<div style="float: left; position: relative; top: 0px; padding-right: 20px">
 [![](images/Biology_insignia.png){width="200"}](https://www.umass.edu/biology/)
 </div>
 
@@ -20,8 +20,8 @@ A strength of our broad [Biology Department](https://www.umass.edu/biology/) is 
 
 
 <div>
-<div style="float: left; position: relative; top: 0px; padding-right: 20px">
-[![](images/linkedin_propel_square.png){width="100"}](https://propel.umass.edu/)
+<div style="float: right; position: relative; top: 0px; padding-left: 20px">
+[![](images/linkedin_propel_square.png){width="125"}](https://propel.umass.edu/)
 </div>
 
 We recruit undergraduate students through the UMass [PROPEL](https://propel.umass.edu/) (Promoting Research Opportunities for Equity in Learning) program to ensure equitable access to academic and research opportunities for all undergraduate students at the University of Massachusetts Amherst. We look for students with diverse life and intellectual perspectives. 
