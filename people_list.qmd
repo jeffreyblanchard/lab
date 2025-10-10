@@ -2,38 +2,38 @@
 title: "List of Current and Former People in Our Lab"
 ---
 
-    1. Jennifer Camuso, Psychology, 2025-In progress
-    2. Sonya Ivkovic, Computer Science, 2025-In progress
-    3. Emilie Bellinette, Anthropology, 2025-In progress
-    4. Amren Hossain, Informatics & Biology, 2025-In progress
+    1. Jennifer Camuso, Psychology, 2025 - In progress
+    2. Sonya Ivkovic, Computer Science, 2025 - In progress
+    3. Emilie Bellinette, Anthropology, 2025 - In progress
+    4. Amren Hossain, Informatics & Biology, 2025 - In progress
     5. Noor Omar Musad, Biology, 2024 – In progress
-    6. Sophia Taylor, Psychology, 2024-In progress
-    7. Sophia Deligiannidis, Psychology, 2024-In progress
-    8. Nekeria Ransom, Biology, 2024 – In progress
+    6. Sophia Taylor, Psychology, 2024 - In progress
+    7. Sophia Deligiannidis, Psychology, 2024 - In progress 
+    8. Nekeria Ransom, Biology, 2024-2025, M.S.; MCB 2025 - In progress
     9. Deeksha Kavalapara, BMB, 2024-In progress
     10. Jazlynn Bailey, Biology, 2024 – In progress
-    11. Vartika Burman, Biology, 2023-In progress
-    12. Annabelle Kearney, Biology, 2023-2025
-    13. Nishtha Lotan, Biology, 2022-2024
-    14. Rudra Malo, BMB, 2023-2024
-    15. Ethan Li, Biology, 2023-2024
-    16. Seojin Jung, Biology, 2023-2024
-    17. Jared Gracia-David, Biology, 2022-2024
-    18. João Tsai Silva, Biology, 2022-2024
-    19. Journey Tamba, B.S., Biology, 2022-2023
-    20. Isabel Rojas, Biology, 2022-2024
-    21. Robert Li, B.S., Biology, 2022-2023
-    22. Marie Beaulieu, Microbiology, 2022-2024
-    23. Gabe Zenoun, B.S., Biology, 2022-2023
-    24. Antonia Mukiibi, B.S., Biology, 2022-2023
-    25. Max Campbell, B.S., Biology, 2021- 2023
-    26. Isaac Collibee, B.S., Biology, 2022
-    27. Rohan Alda, B.S., Biology, 2021-2022
-    28. Kate Scott, B.S., BMB, 2021-2022
-    29. Emiley Miller, B.S., Biology, 2021-2022
-    30. Lauren Sleboda, B.S., Biology, 2021
-    31. Shayra Castillo Romano, B.S., Biology, 2021-2022
-    32. Manya Vivek, B.S., Biology, 2020-2021; M.S., MCB 2022-In progress
+    11. Vartika Burman, Biology, 2023 - In progress
+    12. Annabelle Kearney, B.S., Biology, 2023-2025
+    13. Nishtha Lotan, B.S., Biology, 2022-2024
+    14. Manya Vivek, B.S., Biology, 2020-2021; M.S., MCB 2022-2024
+    15. Rudra Malo, B.S., BMB, 2023-2024
+    16. Ethan Li, B.S., Biology, 2023-2024
+    17. Seojin Jung, B.S., Biology, 2023-2024
+    18. Jared Gracia-David, B.S., Biology, 2022-2024
+    19. João Tsai Silva, B.S., Biology, 2022-2024
+    20. Journey Tamba, B.S., Biology, 2022-2023
+    21. Isabel Rojas, Biology, 2022-2024
+    22. Robert Li, B.S., Biology, 2022-2023
+    23. Marie Beaulieu, B.S., , Microbiology, 2022-2024
+    24. Gabe Zenoun, B.S., Biology, 2022-2023
+    25. Antonia Mukiibi, B.S., Biology, 2022-2023
+    26. Max Campbell, B.S., Biology, 2021- 2023
+    27. Isaac Collibee, B.S., Biology, 2022
+    28. Rohan Alda, B.S., Biology, 2021-2022
+    29. Kate Scott, B.S., BMB, 2021-2022
+    30. Emiley Miller, B.S., Biology, 2021-2022
+    31. Lauren Sleboda, B.S., Biology, 2021
+    32. Shayra Castillo Romano, B.S., Biology, 2021-2022
     33. Sarah Tucker, B.S. Microbiology, 2021-2022; M.S., MCB 2020-2023
     34. Matt Finkelberg, B.S., Biology, 2021-2022; M.S., MCB 2022-2023
     35. Siddhi Advani, Postdoc, 2021
