@@ -2,9 +2,9 @@
 title: "People in our research group"
 ---
 
-## 2025 
-
 [List of Current and Former People in Our Lab](people_list.qmd)
+
+## 2025 
 
 Holiday Party 
 
