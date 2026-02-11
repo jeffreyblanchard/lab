@@ -1,5 +1,5 @@
 ---
-title: "List of Current and Former People in Our Lab"
+title: "List of Current and Former Scientists in Our Lab"
 ---
 
 * 122.	Sarah Ratke, B.S., Microbiology, 2027 – In progress
@@ -10,7 +10,7 @@ title: "List of Current and Former People in Our Lab"
 * 117.	Sonya Ivkovic, B.S., Computer Science, 2025 - In progress
 * 116.	Emilie Bellinette, B.S., Anthropology, 2025 - In progress
 * 115.	Amren Hossain, B.S., Informatics & Biology, 2025 - In progress
-* 114.	Noor Omar Musad, B.S., Biology, 2024 – In progress
+* 114.	Noor Omar Musad, B.S., Biology, 2024-2025 
 * 113.	Sophia Taylor, B.S., Psychology, 2024 - In progress
 * 112.	Sophia Deligiannidis, B.S., Psychology, 2024 - In progress
 * 111.	Nekeria Ransom, B.S., Biology, 2024 – 2025; M.S. MCB 2025 - In progress
