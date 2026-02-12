@@ -2,6 +2,16 @@
 title: "Current Scientists in our Research Group"
 ---
 
+::: {layout="[20,80]"}
+![](images/Nekeria2.jpg){width="150"}
+
+**Nekeria Ransom** 
+I am a Master’s student in the Molecular and Cellular Biology (MCB) program at UMass Amherst, where I also completed my undergraduate degree in Biology. I’m especially interested in applying my research experience and technical skills to a career in the biotechnology/ life sciences industry.
+:::
+
+
+
+
 -   Vartika Burman
 -   Deeksha Kavalapara
 -   Jazlynn Bailey
