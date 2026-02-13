@@ -12,15 +12,26 @@ title: "Current Scientists in our Research Group"
 
 **Sonya Ivkovic** - Hi, I'm Sonya, a major in Computer Science! I'm interested in the crossroads of biology and computer science. Whether that be bioinformatics, modeling, or machine learning, research is integral to enriching my experience at UMass. In the future, I want to work on software that will aid biological researchers or healthcare professionals. 
 :::
+::: {layout="[20,80]"}
+![](images/Vartika.jpg){height="150"}
 
+**Vartika Burman** - Hi! I'm Vartika and I'm a Biology and Mathematics double major. My research interests revolve around the intersection of genetics and computational biology, especially in the context of evolution, and I plan to pursue higher education in that field. Outside academics, I really enjoy watching sitcoms and painting. 
+:::
+::: {layout="[20,80]"}
+![](images/Deeksha.jpg){height="150"}
 
--   Vartika Burman
--   Deeksha Kavalapara
+**Deeksha Kavalapara**
+:::
+::: {layout="[20,80]"}
+![](images/Amren.jpg){height="150"}
+
+**Amren Hossain**
+:::
+
 -   Jazlynn Bailey
 -   Sophia Taylor
 -   Sophia Deligiannidis
 -   Emilie Bellinette
--   Amren Hossain
 -   Caleb Lawyer
 -   Sarah Ratke
 -   Callum Daly
