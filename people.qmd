@@ -35,7 +35,7 @@ title: "Current Scientists in our Research Group"
 ::: {layout="[20,80]"}
 ![](images/SophiaD.jpg){height="150"}
 
-**Sophia Deligiannidis** - I am Psychology and Economics student at UMass Amherst interestd researching how those with disabilities are impacted by the typical research recruitment environment, and how to avoid any discrimination within the new process that PROPEL is innovating. She wants to expand PROPEL so those with disabilities can confidently apply for research labs knowing their needs will be met. 
+**Sophia Deligiannidis** - I am Psychology and Economics student at UMass Amherst interested researching how those with disabilities are impacted by the typical research recruitment environment, and how to avoid any discrimination within the new process that PROPEL is innovating. She wants to expand PROPEL so those with disabilities can confidently apply for research labs knowing their needs will be met. 
 :::
 
 -   Jazlynn Bailey
