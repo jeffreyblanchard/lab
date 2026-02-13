@@ -1,24 +1,17 @@
 ---
 title: "Current Scientists in our Research Group"
 ---
-
-::: {layout="[20,80]"}
-![](images/Nekeria2.jpg){height="150"}
-
-**Nekeria Ransom** - I am a Master’s student in the Molecular and Cellular Biology (MCB) program at UMass Amherst, where I also completed my undergraduate degree in Biology. I’m especially interested in applying my research experience and technical skills to a career in the biotechnology/ life sciences industry.
-[Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/OurMicrobiome/RNAviruses)
-:::
-::: {layout="[20,80]"}
-![](images/Sonya.jpg){height="150"}
-
-**Sonya Ivkovic** - Hi, I'm Sonya, a major in Computer Science! I'm interested in the crossroads of biology and computer science. Whether that be bioinformatics, modeling, or machine learning, research is integral to enriching my experience at UMass. In the future, I want to work on software that will aid biological researchers or healthcare professionals. 
-[NEON Harvard Forest & Quabbin Watershed project](https://www.neonscience.org/field-sites/harv)
-:::
 ::: {layout="[20,80]"}
 ![](images/Vartika.jpg){height="150"}
 
 **Vartika Burman** - Hi! I'm Vartika and I'm a Biology and Mathematics double major. My research interests revolve around the intersection of genetics and computational biology, especially in the context of evolution, and I plan to pursue higher education in that field. Outside academics, I really enjoy watching sitcoms and painting. 
 [Barre Woods Warming Experiment Virophage project](https://github.com/OurMicrobiome/Virophages)
+:::
+::: {layout="[20,80]"}
+![](images/Nekeria2.jpg){height="150"}
+
+**Nekeria Ransom** - I am a Master’s student in the Molecular and Cellular Biology (MCB) program at UMass Amherst, where I also completed my undergraduate degree in Biology. I’m especially interested in applying my research experience and technical skills to a career in the biotechnology/ life sciences industry.
+[Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/OurMicrobiome/RNAviruses) and [PROPEL](https://propel.umass.edu/about-us)
 :::
 ::: {layout="[20,80]"}
 ![](images/Deeksha.jpg){height="150"}
@@ -27,10 +20,15 @@ title: "Current Scientists in our Research Group"
 [Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/OurMicrobiome/RNAviruses)
 :::
 ::: {layout="[20,80]"}
+![](images/Sonya.jpg){height="150"}
+
+**Sonya Ivkovic** - Hi, I’m Sonya, a major in Computer Science! I’m interested in the crossroads of biology and computer science. Whether that be bioinformatics, modeling, or machine learning, research is integral to enriching my experience at UMass. In the future, I want to work on software that will aid biological researchers or healthcare professionals. [NEON Harvard Forest & Quabbin Watershed project](https://www.neonscience.org/field-sites/harv)
+:::
+::: {layout="[20,80]"}
 ![](images/Amren.jpg){height="150"}
 
 **Amren Hossain** - I am a Informatics major and Biology minor interested in health informatics and the study of life sciences. She aims to enhance access to research opportunities on campus, making it accessible to students from all majors.
-[PROPEL](https://propel.umass.edu/about-us) and [NEON Harvard Forest & Quabbin Watershed project](https://www.neonscience.org/field-sites/harv)
+[NEON Harvard Forest & Quabbin Watershed project](https://www.neonscience.org/field-sites/harv) and [PROPEL](https://propel.umass.edu/about-us)
 :::
 ::: {layout="[20,80]"}
 ![](images/SophiaT.jpg){height="150"}
@@ -47,11 +45,11 @@ title: "Current Scientists in our Research Group"
 
 -   Jazlynn Bailey [Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/OurMicrobiome/RNAviruses)
 -   Emilie Bellinette [NEON Harvard Forest & Quabbin Watershed project](https://www.neonscience.org/field-sites/harv)
--   Caleb Lawyer
--   Sarah Ratke
--   Callum Daly
--   Sergio Lugo-Fraga
--   Mai See Thao
+-   Caleb Lawyer [Discovering Antimicrobials in Forest Soils](https://github.com/OurMicrobiome/Antimicrobials)
+-   Sarah Ratke [Discovering Antimicrobials in Forest Soils](https://github.com/OurMicrobiome/Antimicrobials)
+-   Callum Daly [Discovering Antimicrobials in Forest Soils](https://github.com/OurMicrobiome/Antimicrobials)
+-   Sergio Lugo-Fraga [Discovering Antimicrobials in Forest Soils](https://github.com/OurMicrobiome/Antimicrobials)
+-   Mai See Thao [Discovering Antimicrobials in Forest Soils](https://github.com/OurMicrobiome/Antimicrobials)
 
 ------------------------------------------------------------------------
 
