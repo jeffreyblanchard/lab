@@ -16,8 +16,7 @@ title: "Current Scientists in our Research Group"
 ::: {layout="[20,80]"}
 ![](images/Deeksha.jpg){height="150"}
 
-**Deeksha Kavalapara**
-[Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/orgs/OurMicrobiome/teams/rnaviruses)
+**Deeksha Kavalapara** - Hello! I'm Deeksha, and I am majoring in Biochemistry and Molecular Biology. I am especially interested in research areas such as genetics, molecular biology, and bioinformatics. Outside of academics, I enjoy hiking and jamming with friends. [Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/orgs/OurMicrobiome/teams/rnaviruses)
 :::
 ::: {layout="[20,80]"}
 ![](images/Sonya.jpg){height="150"}
@@ -39,8 +38,7 @@ title: "Current Scientists in our Research Group"
 ::: {layout="[20,80]"}
 ![](images/SophiaD.jpg){height="150"}
 
-**Sophia Deligiannidis** - I am a Psychology and Economics double major at UMass Amherst interested researching how those with disabilities are impacted by the typical research recruitment environment, and how to avoid any discrimination within the new process that PROPEL is innovating. I want to expand PROPEL so those with disabilities can confidently apply for research labs knowing their needs will be met. 
-[PROPEL](https://propel.umass.edu/about-us)
+**Sophia Deligiannidis** - I am a Psychology and Economics double major at UMass Amherst interested researching how those with disabilities are impacted by the typical research recruitment environment, and how to avoid any discrimination within the new process that PROPEL is innovating. I want to expand PROPEL so those with disabilities can confidently apply for research labs knowing their needs will be met.  [PROPEL](https://propel.umass.edu/about-us)
 :::
 ::: {layout="[20,80]"}
 ![](images/Caleb.jpg){height="150"}
