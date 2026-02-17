@@ -60,7 +60,7 @@ Graduate students may use AI tools for drafting, language editing, and explorato
 
 -   The intellectual content of dissertation chapters (hypotheses, experimental design, analysis choices, interpretation, conclusions) remain the student’s own work.
 -   All AI assistance is disclosed in the thesis (methods or a dedicated “Use of AI tools” statement), and the student supplies logs, prompts, model versions, and any AI-generated outputs as supplemental files to the advisor.
--   The Jeff must review and approve any substantial AI use prior to submission or defense. This ensures that your dissertation meets the independent work expectations of the program while allowing you to benefit from assistive technologies.
+-   Jeff must review and approve any substantial AI use prior to submission or defense. This ensures that your dissertation meets the independent work expectations of the program while allowing you to benefit from assistive technologies.
 
 ### Example disclosure statements (use and adapt)
 
