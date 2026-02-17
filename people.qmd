@@ -42,10 +42,15 @@ title: "Current Scientists in our Research Group"
 **Sophia Deligiannidis** - I am a Psychology and Economics double major at UMass Amherst interested researching how those with disabilities are impacted by the typical research recruitment environment, and how to avoid any discrimination within the new process that PROPEL is innovating. She wants to expand PROPEL so those with disabilities can confidently apply for research labs knowing their needs will be met. 
 [PROPEL](https://propel.umass.edu/about-us)
 :::
+::: {layout="[20,80]"}
+![](images/Caleb.jpg){height="150"}
+
+**Caleb Lawyer** - Hi! I'm Caleb, a Biology student. I'm currently working to screen local soil samples for anti-E. coli activity, particularly looking for novel, non-standard antibiotics. My research interests are in molecular and cellular biology, drug discovery, and finding therapies for modern diseases. In my free time, I'm passionate about music and tabletop games.
+[Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
+:::
 
 -   Jazlynn Bailey [Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/orgs/OurMicrobiome/teams/rnaviruses)
 -   Emilie Bellinette [NEON Harvard Forest & Quabbin Watershed Microbiome project](https://github.com/orgs/OurMicrobiome/teams/neon_microbiomes)
--   Caleb Lawyer [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 -   Sarah Ratke [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 -   Callum Daly [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 -   Sergio Lugo-Fraga [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
