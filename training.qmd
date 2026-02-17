@@ -105,7 +105,7 @@ The lab, and University of Massachusetts Amherst, is committed to ensuring resea
 
 ### AI, Integrity, and Reproducibility
 
-The same prohibitions on fabrication, falsification, and plagiarism apply to work produced with AI tools. Using AI to generate false data or to obscure methods is research misconduct and is not tolerated. All AI-assisted analyses and writing must be documented and reproducible; failure to disclose or verify AI-generated content may constitute a breach of research integrity. (See lab and university policies on responsible conduct.) 
+The same prohibitions on fabrication, falsification, and plagiarism apply to work produced with AI tools. Using AI to generate false data or to obscure methods is research misconduct and is not tolerated. All AI-assisted analyses and writing must be documented and reproducible; failure to disclose or verify AI-generated content may constitute a breach of research integrity. See current university policies on responsible conduct including[Responsible Use of Generative AI](https://www.umass.edu/provost/resources/responsible-use-generative-ai) and [Guidance on Generative Artificial Intelligence] (https://www.umass.edu/studentsuccess/guidance-generative-artificial-intelligence).
 
 ### Reproducible Research
 
