@@ -46,10 +46,15 @@ title: "Current Scientists in our Research Group"
 **Caleb Lawyer** - Hi! I'm Caleb, a Biology student. I'm currently working to screen local soil samples for anti-E. coli activity, particularly looking for novel, non-standard antibiotics. My research interests are in molecular and cellular biology, drug discovery, and finding therapies for modern diseases. In my free time, I'm passionate about music and tabletop games.
 [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 :::
+::: {layout="[20,80]"}
+![](images/Sarah.jpg){height="150"}
+
+**Sarah Ratka** - Hi! I‘m Sarah, a Microbiology and German Studies double major at UMass Amherst. My research interests are in pathogenic microbiology, specifically drug targeting and antibiotic resistant bacteria. Outside of the lab I like to bake, rock climb, and do crossword puzzles.
+[Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
+:::
 
 -   Jazlynn Bailey [Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/orgs/OurMicrobiome/teams/rnaviruses)
 -   Emilie Bellinette [NEON Harvard Forest & Quabbin Watershed Microbiome project](https://github.com/orgs/OurMicrobiome/teams/neon_microbiomes)
--   Sarah Ratke [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 -   Callum Daly [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 -   Sergio Lugo-Fraga [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 -   Mai See Thao [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
