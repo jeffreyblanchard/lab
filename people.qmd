@@ -58,7 +58,6 @@ title: "Current Scientists in our Research Group"
 [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 :::
 
--   Jazlynn Bailey [Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/orgs/OurMicrobiome/teams/rnaviruses)
 -   Emilie Bellinette [NEON Harvard Forest & Quabbin Watershed Microbiome project](https://github.com/orgs/OurMicrobiome/teams/neon_microbiomes)
 -   Callum Daly [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 -   Sergio Lugo-Fraga [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
