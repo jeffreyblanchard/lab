@@ -24,9 +24,9 @@ title: "Current Scientists in our Research Group"
 **Jazlynn Bailey** - Hi! I'm Jazlynn. I study how biology, technology, and health intersect. I am an honors Biology and IT student conducting research on RNA viruses and computational genomics while gaining experience in human physiology through cardiology and neurology focused shadowing, clinical research, and teaching. I enjoy working in environments that blend experimentation, data, and systems level thinking! [Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/orgs/OurMicrobiome/teams/rnaviruses)
 :::
 ::: {layout="[20,80]"}
-![](images/Emilie.jpg){height="150"}
+![](images/Emilie2.jpg){height="150"}
 
-**Emilie Bélinette** [NEON Harvard Forest & Quabbin Watershed Microbime project](https://github.com/orgs/OurMicrobiome/teams/neon_microbiomes)
+**Emilie Bélinette** - Hi! I’m Emilie, an honors Anthropology and Biology double major interested in the intersection of forensic science and computational microbiology. My academic interests center on applying molecular and genomic techniques to real-world forensic and anthropological problems. Outside of academics, I enjoy horror movies, hanging out with friends and visiting cute coffee shops. [NEON Harvard Forest & Quabbin Watershed Microbime project](https://github.com/orgs/OurMicrobiome/teams/neon_microbiomes)
 :::
 ::: {layout="[20,80]"}
 ![](images/Sonya.jpg){height="150"}
