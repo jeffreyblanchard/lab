@@ -61,12 +61,7 @@ Graduate students may use AI tools for drafting, language editing, and explorato
 -   The intellectual content of dissertation chapters (hypotheses, experimental design, analysis choices, interpretation, conclusions) remain the student’s own work.
 -   All AI assistance is disclosed in the thesis (methods or a dedicated “Use of AI tools” statement), and the student supplies logs, prompts, model versions, and any AI-generated outputs as supplemental files to the advisor.
 -   Jeff must review and approve any substantial AI use prior to submission or defense. This ensures that your dissertation meets the independent work expectations of the program while allowing you to benefit from assistive technologies.
-
-#### Example disclosure statements (use and adapt)
-
--   Manuscript (brief): “Portions of the manuscript were edited for language and clarity using [Tool name and version]. All intellectual content, interpretation, and final decisions were made by the authors.”
--   Manuscript (if AI used for analysis assistance): “Exploratory analyses and initial code scaffolding were performed with assistance from [Tool name and version]. All data processing, statistical analyses, interpretation, and final results were verified and implemented by the authors; full code and AI prompt logs are provided in Supplementary Materials.”
--   Thesis: “I used [Tool name and version] for language edits and to generate initial code drafts. I verified and adapted all outputs; prompts and AI-derived materials are included in the appendix.”
+-   Example disclosure statements: “I used [Tool name and version] for language edits and to generate initial code drafts. I verified and adapted all outputs; prompts and AI-derived materials are included in the appendix.”
 
 ## Undergraduate Students
 
@@ -118,6 +113,11 @@ We will follow the APA guidelines with respect to authorship: "Authorship credit
 ### AI and Authorship
 
 The lab follows standard authorship criteria (e.g., APA guidelines) in which authorship reflects substantive intellectual contribution, including manuscript drafting and final approval.  Use of AI tools does not by itself constitute authorship. Contributions consisting solely of text editing, language polishing, or other forms of non-intellectual assistance (including AI-generated wording) should be acknowledged, not listed as an author. When AI materially shaped the intellectual content (for example, by contributing original analyses or interpretation that the humans did not independently create), this must be disclosed and discussed; but responsibility for interpretation and approval remains with the human authors.
+
+#### Example disclosure statements:
+-   Manuscript (brief): “Portions of the manuscript were edited for language and clarity using [Tool name and version]. All intellectual content, interpretation, and final decisions were made by the authors.”
+-   Manuscript (if AI used for analysis assistance): “Exploratory analyses and initial code scaffolding were performed with assistance from [Tool name and version]. All data processing, statistical analyses, interpretation, and final results were verified and implemented by the authors; full code and AI prompt logs are provided in Supplementary Materials.”
+-   Here is an example acknowledgement from a Science article  - https://www-science-org.silk.library.umass.edu/doi/10.1126/science.adt2760 “...Claude (Anthropic; versions Sonnet 4) was used to refine and adapt author-provided Python code for data visualization. All code outputs were reviewed, validated, and modified by the authors, who retain full responsibility for accuracy and interpretation."
 
 ## Old projects
 
