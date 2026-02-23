@@ -62,7 +62,7 @@ Graduate students may use AI tools for drafting, language editing, and explorato
 -   All AI assistance is disclosed in the thesis (methods or a dedicated “Use of AI tools” statement), and the student supplies logs, prompts, model versions, and any AI-generated outputs as supplemental files to the advisor.
 -   Jeff must review and approve any substantial AI use prior to submission or defense. This ensures that your dissertation meets the independent work expectations of the program while allowing you to benefit from assistive technologies.
 
-### Example disclosure statements (use and adapt)
+#### Example disclosure statements (use and adapt)
 
 -   Manuscript (brief): “Portions of the manuscript were edited for language and clarity using [Tool name and version]. All intellectual content, interpretation, and final decisions were made by the authors.”
 -   Manuscript (if AI used for analysis assistance): “Exploratory analyses and initial code scaffolding were performed with assistance from [Tool name and version]. All data processing, statistical analyses, interpretation, and final results were verified and implemented by the authors; full code and AI prompt logs are provided in Supplementary Materials.”
