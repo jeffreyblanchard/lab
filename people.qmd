@@ -62,8 +62,12 @@ title: "Current Scientists in our Research Group"
 **Sarah Ratka** - Hi! I‘m Sarah, a Microbiology and German Studies double major at UMass Amherst. My research interests are in pathogenic microbiology, specifically drug targeting and antibiotic resistant bacteria. Outside of the lab I like to bake, rock climb, and do crossword puzzles.
 [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 :::
+::: {layout="[20,80]"}
+![](images/Callum.png){height="150"}
 
--   Callum Daly [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
+**Callum Daly** - I'm Cal, a Biochemistry and Molecular Biology major and who wants to know more about the world of metagenomics and what it could possibly mean for human health. In the lab, I will be helping screen soil samples for novel antibiotics, and hope to mix both hands-on and computational techniques in my research. In the future, I would love to continue studying phage and novel DNA modifications as well as the applications of microbiology in human health.
+[Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
+:::
 -   Sergio Lugo-Fraga [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 -   Mai See Thao [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 
