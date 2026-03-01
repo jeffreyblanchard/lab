@@ -68,8 +68,14 @@ title: "Current Scientists in our Research Group"
 **Callum Daly** - I'm Cal, a Biochemistry and Molecular Biology major and who wants to know more about the world of metagenomics and what it could possibly mean for human health. In the lab, I will be helping screen soil samples for novel antibiotics, and hope to mix both hands-on and computational techniques in my research. In the future, I would love to continue studying phage and novel DNA modifications as well as the applications of microbiology in human health.
 [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 :::
+::: {layout="[20,80]"}
+![](images/MaiSee.jpg){height="150"}
+
+**Mai See Thao ** - My name is Mai See, and I am a microbiology major at UMass Amherst. While I truly love all areas of microbiology, I am especially interested in hands-on drug development, whether it be in biotech, regenerative medicine, pharmaceuticals - you name it! During my free time, I enjoy diving into the world of true crime and psychological thrillers!
+[Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
+:::
+
 -   Sergio Lugo-Fraga [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
--   Mai See Thao [Discovering Antimicrobials in Forest Soils](https://github.com/orgs/OurMicrobiome/teams/antimicrobials)
 
 ------------------------------------------------------------------------
 
