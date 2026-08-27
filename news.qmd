@@ -8,6 +8,7 @@ title: "News"
 -   Aug 2026 Jeff is named a [UMass Advance](https://www.umass.edu/advance/) faculty network fellow to help develop strategies to promote faculty equity on campus. 
 -   July 2026 Microbes Make Our World! Jeff is elected Vice President of the [Connecticut Valley Branch](https://sites.google.com/view/ctvalleybranchasm) of the [American Society for Microbiology](https://asm.org/)
 -   July 2026 Robert has been accepted into medical school at UMass Chan.
+-   May 2026 My experience teaching with gen AI, student surveys and lessons learned have been published [Learning R with generative AI in a metagenomic data science course](https://doi.org/10.1128/jmbe.00343-25)
 -   May 2026 Emilie will be working on our NEON project through the [CAFE Summer Scholars program](https://www.umass.edu/agriculture-food-environment/summer-scholars-program) 
 -   May 2026 Caleb started a summer internship at UMass Med with [Amir Mitchell's lab](https://mitchell-lab.umassmed.edu/people)
 -   May 2026 Nekeria will be spending the summer working on site at [New England Biolabs](https://www.neb.com/en-us/research-labs/trachman-lab) as part a collaboration to develop methods to discover novel RNA viruses
