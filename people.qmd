@@ -5,17 +5,17 @@ title: "Current Scientists in our Research Group"
 ![](images/Nekeria2.jpg){height="150"}
 
 **Nekeria Ransom** - I am a Master’s student in the Molecular and Cellular Biology (MCB) program at UMass Amherst, where I also completed my undergraduate degree in Biology. I’m especially interested in applying my research experience and technical skills to a career in the biotechnology/ life sciences industry.
-[Barre Woods Warming Experiment RNA viruses and viroids project](https://github.com/orgs/OurMicrobiome/teams/rnaviruses)
+[Barre Woods Warming Experiment RNA Viruses and Viroids project](https://github.com/orgs/OurMicrobiome/teams/rnaviruses)
 :::
 ::: {layout="[20,80]"}
 ![](images/Emilie2.jpg){height="150"}
 
-**Emilie Bélinette** - Hi! I’m Emilie, an honors Anthropology and Biology double major interested in the intersection of forensic science and computational microbiology. My academic interests center on applying molecular and genomic techniques to real-world forensic and anthropological problems. Outside of academics, I enjoy horror movies, hanging out with friends and visiting cute coffee shops. [NEON Harvard Forest & Quabbin Watershed Microbime project](https://github.com/orgs/OurMicrobiome/teams/neon_microbiomes)
+**Emilie Bélinette** - Hi! I’m Emilie, an honors Anthropology and Biology double major interested in the intersection of forensic science and computational microbiology. My academic interests center on applying molecular and genomic techniques to real-world forensic and anthropological problems. Outside of academics, I enjoy horror movies, hanging out with friends and visiting cute coffee shops. [NEON Harvard Forest & Quabbin Watershed Microbiome project](https://github.com/orgs/OurMicrobiome/teams/neon_microbiomes)
 :::
 ::: {layout="[20,80]"}
 ![](images/Sonya.jpg){height="150"}
 
-**Sonya Ivkovic** - Hi, I’m Sonya, a major in Computer Science! I’m interested in the crossroads of biology and computer science. Whether that be bioinformatics, modeling, or machine learning, research is integral to enriching my experience at UMass. In the future, I want to work on software that will aid biological researchers or healthcare professionals. [NEON Harvard Forest & Quabbin Watershed Microbime project](https://github.com/orgs/OurMicrobiome/teams/neon_microbiomes)
+**Sonya Ivkovic** - Hi, I’m Sonya, a major in Computer Science! I’m interested in the crossroads of biology and computer science. Whether that be bioinformatics, modeling, or machine learning, research is integral to enriching my experience at UMass. In the future, I want to work on software that will aid biological researchers or healthcare professionals. [NEON Harvard Forest & Quabbin Watershed Microbiome project](https://github.com/orgs/OurMicrobiome/teams/neon_microbiomes)
 :::
 ::: {layout="[20,80]"}
 ![](images/Caleb.jpg){height="150"}
