@@ -2,10 +2,10 @@
 title: "List of Current and Former Scientists in Our Lab"
 ---
 
-* 122.	Sarah Ratke, B.S., Microbiology, 2026 – In progress
+* 122.	Sarah Ratke, B.S., Microbiology, 2026
 * 121.	Callum Daly, B.S., BMB, 2026 – In progress
 * 120.	Sergio Lugo-Fraga, B.S., Biology, 2026 – In progress
-* 119.	Mai See Thao, B.S., Microbiology, 2026 – In progress
+* 119.	Mai See Thao, B.S., Microbiology, 2026
 * 118.	Caleb Lawyer, B.S., Biology, 2025 - 2026; ; M.S. MCB 2026 - In progress
 * 117.	Sonya Ivkovic, B.S., Computer Science, 2025 - In progress
 * 116.	Emilie Bellinette, B.S., Anthropology, 2025 - In progress
